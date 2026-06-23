@@ -1,0 +1,264 @@
+{
+  "generated_at_kst": "2026-06-23T14:52:06+09:00",
+  "preview_url": "https://hyeonwol-free-result-interrupt-v1-5l4bxgbj9.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "device_pixel_ratio": 2
+  },
+  "document_height": 5291,
+  "sections": [
+    {
+      "order": 1,
+      "section_id": "judgment_hero",
+      "selector": "#judgment",
+      "tag": "section",
+      "id_attr": "judgment",
+      "class_list": [
+        "judgment-reveal"
+      ],
+      "top": 0,
+      "height": 690,
+      "heading": "가명님의 겉도화는",
+      "inner_card_wrapper_class_list": [],
+      "buttons": [],
+      "image_alts": [
+        "겉도화 결과 이미지"
+      ],
+      "notes": "Hero. Result card appears before explanatory sections."
+    },
+    {
+      "order": 2,
+      "section_id": "face_overview",
+      "selector": "#face-overview",
+      "tag": "section",
+      "id_attr": "face-overview",
+      "class_list": [
+        "panel-card",
+        "reveal-card",
+        "face-overview-section"
+      ],
+      "top": 708,
+      "height": 718,
+      "heading": "사람들은 당신을 이렇게 먼저 봅니다",
+      "inner_card_wrapper_class_list": [
+        {
+          "tag": "div",
+          "id": null,
+          "classList": [
+            "face-overview-grid"
+          ],
+          "text": "첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다. 남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다. 오해 "
+        },
+        {
+          "tag": "article",
+          "id": null,
+          "classList": [
+            "face-overview-card"
+          ],
+          "text": "첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다."
+        },
+        {
+          "tag": "article",
+          "id": null,
+          "classList": [
+            "face-overview-card"
+          ],
+          "text": "남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다."
+        },
+        {
+          "tag": "article",
+          "id": null,
+          "classList": [
+            "face-overview-card"
+          ],
+          "text": "오해 포인트 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다."
+        }
+      ],
+      "buttons": [],
+      "image_alts": [],
+      "notes": "Three-card overview. Candidate area for stronger visual hierarchy."
+    },
+    {
+      "order": 3,
+      "section_id": "saju_pillars",
+      "selector": "#free-pillar-table",
+      "tag": "section",
+      "id_attr": "free-pillar-table",
+      "class_list": [
+        "saju-pillar-section",
+        "reveal-card"
+      ],
+      "top": 1444,
+      "height": 445,
+      "heading": "사주원국 속 도화의 결",
+      "inner_card_wrapper_class_list": [],
+      "buttons": [],
+      "image_alts": [],
+      "notes": "Saju pillar table. Check outer wrapper and inner table/card boundary."
+    },
+    {
+      "order": 4,
+      "section_id": "origin_summary",
+      "selector": "#free-origin-summary",
+      "tag": "article",
+      "id_attr": "free-origin-summary",
+      "class_list": [
+        "report-chapter",
+        "reveal-card",
+        "saju-origin-card",
+        "free-origin-summary"
+      ],
+      "top": 1907,
+      "height": 669,
+      "heading": "원국은 이미 한쪽을 가리키고 있습니다.",
+      "inner_card_wrapper_class_list": [
+        {
+          "tag": "div",
+          "id": null,
+          "classList": [
+            "origin-summary-grid"
+          ],
+          "text": "월지 未(미) 사람들 사이에서 처음 잡히는 분위기입니다. 일간 癸(계) 관계 안에서 당신이 자신을 드러내는 방식입니다. 일지 亥(해) 처음 본 인상이 상대 기억에 다시 남는 자리입니다."
+        }
+      ],
+      "buttons": [],
+      "image_alts": [],
+      "notes": "Origin summary. Candidate to merge with saju pillar section if nested-card feel is too strong."
+    },
+    {
+      "order": 5,
+      "section_id": "face_card",
+      "selector": "#share",
+      "tag": "section",
+      "id_attr": "share",
+      "class_list": [
+        "panel-card",
+        "share-section",
+        "reveal-card"
+      ],
+      "top": 2594,
+      "height": 694,
+      "heading": "당신의 겉도화",
+      "inner_card_wrapper_class_list": [],
+      "buttons": [
+        "친구에게 공유하기",
+        "카드 이미지 저장하기"
+      ],
+      "image_alts": [],
+      "notes": "Face dohwa card currently appears after origin summary."
+    },
+    {
+      "order": 6,
+      "section_id": "face_public_explanation",
+      "selector": "#face-dohwa-explanation",
+      "tag": "section",
+      "id_attr": "face-dohwa-explanation",
+      "class_list": [
+        "panel-card",
+        "reveal-card",
+        "face-dohwa-explanation",
+        "face-dohwa-public-explanation"
+      ],
+      "top": 3306,
+      "height": 843,
+      "heading": "붉은 장미형은 어떻게 보이는가",
+      "inner_card_wrapper_class_list": [
+        {
+          "tag": "div",
+          "id": null,
+          "classList": [
+            "origin-personalization-block"
+          ],
+          "text": "원국으로 보면, 이 결은 월지에서 먼저 잡힙니다.바로 튀기보다 안정감으로 남습니다. 처음엔 잔잔해도 뒤늦게 무게가 생깁니다. 일간은 이 매력이 밖으로 드러나는 방식을 보여줍니다.한 박자 늦은 반응과 여운으로 드러납니"
+        },
+        {
+          "tag": "p",
+          "id": null,
+          "classList": [
+            "face-dohwa-summary-line"
+          ],
+          "text": "상대는 당신을 “편한 사람”보다 “강하게 남는 사람”으로 기억합니다."
+        }
+      ],
+      "buttons": [],
+      "image_alts": [],
+      "notes": "Public hook text before locked professional area."
+    },
+    {
+      "order": 7,
+      "section_id": "professional_locked_area",
+      "selector": "#professional-locked-area",
+      "tag": "section",
+      "id_attr": "professional-locked-area",
+      "class_list": [
+        "professional-locked-area",
+        "reveal-card"
+      ],
+      "top": 4167,
+      "height": 545,
+      "heading": "아직 닫힌 해석이 남아 있습니다",
+      "inner_card_wrapper_class_list": [
+        {
+          "tag": "div",
+          "id": null,
+          "classList": [
+            "professional-lock-grid"
+          ],
+          "text": "🔒 원국 해석 전문 월지·일간·일지가 왜 붉은 장미형으로 모이는지 🔒 겉도화 해석 전문 상대가 당신을 어떤 장면에서 더 강하게 기억하는지 🔒 도화 지표 전체 존재감 / 신비감 / 부드러움 / 플러팅 / 깊이"
+        }
+      ],
+      "buttons": [
+        "전문 열람하기"
+      ],
+      "image_alts": [],
+      "notes": "Auto modal trigger section."
+    },
+    {
+      "order": 8,
+      "section_id": "bottom_unlock_gate",
+      "selector": "#share-unlock",
+      "tag": "section",
+      "id_attr": "share-unlock",
+      "class_list": [
+        "share-unlock-gate",
+        "reveal-card"
+      ],
+      "top": 4734,
+      "height": 445,
+      "heading": "전문은 여기서 멈춰 있습니다",
+      "inner_card_wrapper_class_list": [],
+      "buttons": [
+        "전문 열람하기"
+      ],
+      "image_alts": [],
+      "notes": "Bottom gate CTA."
+    }
+  ],
+  "candidate_classes": {
+    "box_inside_box_candidates": [
+      "panel-card",
+      "reveal-card",
+      "saju-pillar-section",
+      "saju-table-card",
+      "saju-pillar-card",
+      "report-chapter",
+      "saju-origin-card",
+      "origin-personalization-block"
+    ],
+    "face_overview_three_card_layout": [
+      "face-overview-grid",
+      "face-overview-card"
+    ],
+    "merge_saju_origin_function_candidates": [
+      "renderSajuOriginSummary()",
+      "renderFreePillarTable()/saju pillar render path in renderResult()",
+      "renderResult() section ordering"
+    ],
+    "move_face_card_function_candidates": [
+      "renderShareCardPreview()",
+      "renderResult() pre-unlock order",
+      "FREE_RESULT_SECTION_LABELS/share section metadata"
+    ]
+  }
+}
