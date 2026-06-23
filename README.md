@@ -19,5 +19,12 @@ Secret-free public handoff bundle for ChatGPT review.
 - Contact sheet PNG: [screenshots/free-result-unlock-modal-interrupt-v1-visual-audit/10-visual-feedback-contact-sheet.png](screenshots/free-result-unlock-modal-interrupt-v1-visual-audit/10-visual-feedback-contact-sheet.png)
 - Visual feedback DOM summary: [json/free-result-visual-feedback-dom-summary.json](json/free-result-visual-feedback-dom-summary.json)
 
+## v1.1 Visual Polish
+
+- v1.1 handoff: [docs/free-result-unlock-modal-interrupt-v1-1-visual-polish-handoff.md](docs/free-result-unlock-modal-interrupt-v1-1-visual-polish-handoff.md)
+- v1.1 QA JSON: [json/free-result-unlock-modal-interrupt-v1-1-qa.json](json/free-result-unlock-modal-interrupt-v1-1-qa.json)
+- v1.1 montage: [screenshots/montage/free-result-unlock-modal-interrupt-v1-1-visual-polish-montage.png](screenshots/montage/free-result-unlock-modal-interrupt-v1-1-visual-polish-montage.png)
+- v1.1 screenshots: [screenshots/free-result-unlock-modal-interrupt-v1-1-visual-polish/](screenshots/free-result-unlock-modal-interrupt-v1-1-visual-polish/)
+
 Preview URL:
 https://hyeonwol-free-result-interrupt-v1-5l4bxgbj9.vercel.app/

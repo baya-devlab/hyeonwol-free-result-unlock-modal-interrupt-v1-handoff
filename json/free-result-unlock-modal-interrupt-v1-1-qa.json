@@ -1,0 +1,1011 @@
+{
+  "generatedAt": "2026-06-23T06:09:39.464Z",
+  "localBase": "https://hyeonwol-free-result-interrupt-v1-rjj2de25m.vercel.app/",
+  "personas": [
+    {
+      "persona": "붉은 장미형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 843,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3643,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4210,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "persona": "차가운 달빛형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 다정해도 쉽게 열리지 않는 사람처럼 보입니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 당신의 말보다 남겨둔 거리를 떠올립니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 관심 없음이나 벽처럼 오해될 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 872,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3672,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4239,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "persona": "첫눈의 뮤즈형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 처음부터 함부로 대하기 어려운 인상입니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 당신을 조심히 다시 떠올립니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 연약함이나 거리감으로 잘못 읽힐 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 844,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3644,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4211,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "persona": "무심한 고양이형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 붙잡지 않는데도 시선이 따라갑니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 당신의 무심한 장면에 의미를 붙입니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 관심 없음이나 변덕으로 오해될 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 872,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3672,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4239,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "persona": "복숭아 안개형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 편하고 부드러운 인상으로 먼저 들어옵니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 어디까지가 호감인지 계속 다시 생각합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 친절과 여지의 경계가 흐려질 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 846,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3646,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4213,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "persona": "검은 향수형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 처음엔 조용해도 가볍게 넘기기 어렵습니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 시간이 지난 뒤 더 진하게 떠올립니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 차분함이 어둡거나 위험한 느낌으로 읽힐 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 817,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3617,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4184,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "persona": "햇살 플러팅형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 밝고 편한데, 이상하게 마음을 흔듭니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 장난처럼 지나간 말을 다시 떠올립니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 별뜻 없는 친절이 플러팅처럼 읽힐 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 846,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3646,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4213,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "persona": "푸른 불꽃형",
+      "orderOk": true,
+      "pillarInsideOrigin": true,
+      "oldStandalonePillarBeforeOrigin": false,
+      "modalVisibleAtLockedArea": true,
+      "consoleErrors": [],
+      "brokenImages": 0,
+      "faceCards": [
+        {
+          "text": "01첫인상 차분한데 쉽게 눈을 떼기 어렵습니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 감정보다 절제된 태도를 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 무심함이나 차가움으로 오해될 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 817,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3617,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4184,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    }
+  ],
+  "viewports": [
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "consoleErrors": [],
+      "faceCards": [
+        {
+          "text": "01첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 298,
+          "height": 176,
+          "left": 31,
+          "top": 959
+        },
+        {
+          "text": "02남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 284,
+          "height": 131,
+          "left": 45,
+          "top": 1145
+        },
+        {
+          "text": "03오해 포인트 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 284,
+          "height": 131,
+          "left": 31,
+          "top": 1287
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 727,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1453,
+          "height": 669,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2140,
+          "height": 737,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2895,
+          "height": 835,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3748,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4315,
+          "height": 474,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "consoleErrors": [],
+      "faceCards": [
+        {
+          "text": "01첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 297,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 283,
+          "height": 131,
+          "left": 53,
+          "top": 1149
+        },
+        {
+          "text": "03오해 포인트 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 283,
+          "height": 131,
+          "left": 39,
+          "top": 1291
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 735,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1461,
+          "height": 675,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2155,
+          "height": 713,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2885,
+          "height": 843,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3746,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4313,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "consoleErrors": [],
+      "faceCards": [
+        {
+          "text": "01첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 312,
+          "height": 176,
+          "left": 39,
+          "top": 963
+        },
+        {
+          "text": "02남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 151,
+          "height": 189,
+          "left": 39,
+          "top": 1153
+        },
+        {
+          "text": "03오해 포인트 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 151,
+          "height": 189,
+          "left": 200,
+          "top": 1163
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 652,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1378,
+          "height": 694,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2090,
+          "height": 674,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2782,
+          "height": 843,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3643,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4210,
+          "height": 445,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "consoleErrors": [],
+      "faceCards": [
+        {
+          "text": "01첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+          "width": 352,
+          "height": 176,
+          "left": 39,
+          "top": 969
+        },
+        {
+          "text": "02남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+          "width": 171,
+          "height": 171,
+          "left": 39,
+          "top": 1159
+        },
+        {
+          "text": "03오해 포인트 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+          "width": 171,
+          "height": 171,
+          "left": 220,
+          "top": 1169
+        }
+      ],
+      "sections": [
+        {
+          "selector": "#judgment",
+          "top": 0,
+          "height": 690,
+          "heading": "가명님의 겉도화는",
+          "cls": "judgment-reveal"
+        },
+        {
+          "selector": "#face-overview",
+          "top": 708,
+          "height": 639,
+          "heading": "겉도화 개요",
+          "cls": "panel-card reveal-card face-overview-section"
+        },
+        {
+          "selector": "#share",
+          "top": 1365,
+          "height": 747,
+          "heading": "당신의 겉도화",
+          "cls": "panel-card share-section reveal-card"
+        },
+        {
+          "selector": "#free-origin-summary",
+          "top": 2131,
+          "height": 647,
+          "heading": "왜 이렇게 나왔는가",
+          "cls": "free-origin-summary free-origin-integrated"
+        },
+        {
+          "selector": "#face-dohwa-explanation",
+          "top": 2795,
+          "height": 795,
+          "heading": "겉도화 해석",
+          "cls": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation"
+        },
+        {
+          "selector": "#professional-locked-area",
+          "top": 3608,
+          "height": 545,
+          "heading": "아직 닫힌 해석이 남아 있습니다",
+          "cls": "professional-locked-area reveal-card"
+        },
+        {
+          "selector": "#share-unlock",
+          "top": 4175,
+          "height": 448,
+          "heading": "전문은 여기서 멈춰 있습니다",
+          "cls": "share-unlock-gate reveal-card"
+        }
+      ]
+    }
+  ],
+  "postShare": {
+    "autoModalVisible": false
+  },
+  "manualModal": {
+    "autoAfterClose": false,
+    "manualReopen": true
+  }
+}
