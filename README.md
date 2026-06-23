@@ -26,5 +26,13 @@ Secret-free public handoff bundle for ChatGPT review.
 - v1.1 montage: [screenshots/montage/free-result-unlock-modal-interrupt-v1-1-visual-polish-montage.png](screenshots/montage/free-result-unlock-modal-interrupt-v1-1-visual-polish-montage.png)
 - v1.1 screenshots: [screenshots/free-result-unlock-modal-interrupt-v1-1-visual-polish/](screenshots/free-result-unlock-modal-interrupt-v1-1-visual-polish/)
 
-Preview URL:
-https://hyeonwol-free-result-interrupt-v1-5l4bxgbj9.vercel.app/
+## v1.2 Visual Polish
+
+- v1.2 handoff: [docs/free-result-unlock-modal-interrupt-v1-2-visual-polish-handoff.md](docs/free-result-unlock-modal-interrupt-v1-2-visual-polish-handoff.md)
+- v1.2 QA JSON: [json/free-result-unlock-modal-interrupt-v1-2-qa.json](json/free-result-unlock-modal-interrupt-v1-2-qa.json)
+- v1.2 DOM summary: [json/free-result-unlock-modal-interrupt-v1-2-dom-summary.json](json/free-result-unlock-modal-interrupt-v1-2-dom-summary.json)
+- v1.2 montage: [screenshots/montage/free-result-unlock-modal-interrupt-v1-2-visual-polish-montage.png](screenshots/montage/free-result-unlock-modal-interrupt-v1-2-visual-polish-montage.png)
+- v1.2 screenshots: [screenshots/free-result-unlock-modal-interrupt-v1-2-visual-polish/](screenshots/free-result-unlock-modal-interrupt-v1-2-visual-polish/)
+
+Latest Preview URL:
+https://hyeonwol-free-result-interrupt-v1-5cmqlebmu.vercel.app/

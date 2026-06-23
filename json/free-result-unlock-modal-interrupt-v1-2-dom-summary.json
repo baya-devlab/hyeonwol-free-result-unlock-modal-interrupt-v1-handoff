@@ -1,0 +1,202 @@
+{
+  "generatedAt": "2026-06-23T06:57:49.349Z",
+  "previewUrl": "https://hyeonwol-free-result-interrupt-v1-5cmqlebmu.vercel.app/",
+  "mobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-5cmqlebmu.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "sectionOrder": [
+    {
+      "order": 1,
+      "id": "judgment",
+      "selector": "#judgment",
+      "classList": "judgment-reveal",
+      "top": 0,
+      "height": 690,
+      "chip": "",
+      "heading": "가명님의 겉도화는",
+      "notes": ""
+    },
+    {
+      "order": 2,
+      "id": "face-overview",
+      "selector": "#face-overview",
+      "classList": "panel-card reveal-card face-overview-section",
+      "top": 708,
+      "height": 839,
+      "chip": "겉도화 개요",
+      "heading": "사람들은 당신을 이렇게 먼저 봅니다",
+      "notes": "3 vertically stacked personalized dohwa basis cards with large hanja."
+    },
+    {
+      "order": 3,
+      "id": "share",
+      "selector": "#share",
+      "classList": "panel-card share-section reveal-card",
+      "top": 1565,
+      "height": 695,
+      "chip": "",
+      "heading": "당신의 겉도화",
+      "notes": ""
+    },
+    {
+      "order": 4,
+      "id": "free-origin-summary",
+      "selector": "#free-origin-summary",
+      "classList": "free-origin-summary free-origin-integrated reveal-card",
+      "top": 2279,
+      "height": 860,
+      "chip": "왜 이렇게 나왔는가",
+      "heading": "원국은 이미 한쪽을 가리키고 있습니다.",
+      "notes": "Integrated origin section keeps outer border, removes extra saju table wrapper border, and uses same basis-card visual language."
+    },
+    {
+      "order": 5,
+      "id": "face-dohwa-explanation",
+      "selector": "#face-dohwa-explanation",
+      "classList": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation",
+      "top": 3157,
+      "height": 783,
+      "chip": "겉도화 해석",
+      "heading": "붉은 장미형은 장면의 중심으로 남습니다",
+      "notes": "Uses persona-custom title only; old generic heading/support copy removed."
+    },
+    {
+      "order": 6,
+      "id": "professional-locked-area",
+      "selector": "#professional-locked-area",
+      "classList": "professional-locked-area reveal-card",
+      "top": 3958,
+      "height": 545,
+      "chip": "",
+      "heading": "아직 닫힌 해석이 남아 있습니다",
+      "notes": ""
+    },
+    {
+      "order": 7,
+      "id": "share-unlock",
+      "selector": "#share-unlock",
+      "classList": "share-unlock-gate reveal-card",
+      "top": 4525,
+      "height": 445,
+      "chip": "",
+      "heading": "전문은 여기서 멈춰 있습니다",
+      "notes": ""
+    }
+  ],
+  "faceOverviewCards": [
+    {
+      "order": 1,
+      "classList": "dohwa-basis-card face-overview-card face-overview-card-1 element-earth",
+      "text": "未 01첫인상 월지 未(미) 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+      "hasLargeHanja": true,
+      "hasBasisSource": true,
+      "cssVars": "--basis-color:#d8b65f; --basis-soft:rgba(132, 86, 28, 0.34); --basis-wash:rgba(216, 182, 95, 0.13);",
+      "width": 312,
+      "height": 176,
+      "top": 975
+    },
+    {
+      "order": 2,
+      "classList": "dohwa-basis-card face-overview-card face-overview-card-2 element-water",
+      "text": "亥 02기억에 남는 지점 일지 亥(해) 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+      "hasLargeHanja": true,
+      "hasBasisSource": true,
+      "cssVars": "--basis-color:#86b9ff; --basis-soft:rgba(54, 105, 172, 0.3); --basis-wash:rgba(134, 185, 255, 0.12);",
+      "width": 312,
+      "height": 176,
+      "top": 1163
+    },
+    {
+      "order": 3,
+      "classList": "dohwa-basis-card face-overview-card face-overview-card-3 element-water",
+      "text": "癸 03오해 일간 癸(계) 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+      "hasLargeHanja": true,
+      "hasBasisSource": true,
+      "cssVars": "--basis-color:#86b9ff; --basis-soft:rgba(54, 105, 172, 0.3); --basis-wash:rgba(134, 185, 255, 0.12);",
+      "width": 312,
+      "height": 176,
+      "top": 1351
+    }
+  ],
+  "originBasisCards": [
+    {
+      "order": 1,
+      "classList": "dohwa-basis-card origin-basis-card element-earth",
+      "text": "未 월지 未(미) 사람들 사이에서 처음 잡히는 분위기입니다.",
+      "hasLargeHanja": true,
+      "cssVars": "--basis-color:#d8b65f; --basis-soft:rgba(132, 86, 28, 0.34); --basis-wash:rgba(216, 182, 95, 0.13);",
+      "width": 320,
+      "height": 104
+    },
+    {
+      "order": 2,
+      "classList": "dohwa-basis-card origin-basis-card element-water",
+      "text": "癸 일간 癸(계) 관계 안에서 당신이 자신을 드러내는 방식입니다.",
+      "hasLargeHanja": true,
+      "cssVars": "--basis-color:#86b9ff; --basis-soft:rgba(54, 105, 172, 0.3); --basis-wash:rgba(134, 185, 255, 0.12);",
+      "width": 320,
+      "height": 104
+    },
+    {
+      "order": 3,
+      "classList": "dohwa-basis-card origin-basis-card element-water",
+      "text": "亥 일지 亥(해) 처음 본 인상이 상대 기억에 다시 남는 자리입니다.",
+      "hasLargeHanja": true,
+      "cssVars": "--basis-color:#86b9ff; --basis-soft:rgba(54, 105, 172, 0.3); --basis-wash:rgba(134, 185, 255, 0.12);",
+      "width": 320,
+      "height": 104
+    }
+  ],
+  "checks": {
+    "allPersonaQaPassed": true,
+    "consoleErrors": 0,
+    "brokenImages": 0,
+    "manualModal": {
+      "autoAfterClose": false,
+      "manualReopen": true
+    },
+    "postShare": {
+      "autoModalVisible": false
+    },
+    "viewports": [
+      {
+        "viewport": {
+          "width": 360,
+          "height": 740
+        },
+        "overflow": false,
+        "brokenImages": 0,
+        "consoleErrors": 0
+      },
+      {
+        "viewport": {
+          "width": 375,
+          "height": 812
+        },
+        "overflow": false,
+        "brokenImages": 0,
+        "consoleErrors": 0
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "overflow": false,
+        "brokenImages": 0,
+        "consoleErrors": 0
+      },
+      {
+        "viewport": {
+          "width": 430,
+          "height": 932
+        },
+        "overflow": false,
+        "brokenImages": 0,
+        "consoleErrors": 0
+      }
+    ]
+  }
+}
