@@ -1,0 +1,218 @@
+{
+  "url": "https://hyeonwol-free-result-interrupt-v1-5l4bxgbj9.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "devicePixelRatio": 2
+  },
+  "documentHeightPx": 5291,
+  "sections": [
+    {
+      "order": 0,
+      "key": "judgment_hero",
+      "selector": "#judgment",
+      "tag": "section",
+      "id": "judgment",
+      "className": "judgment-reveal",
+      "topPx": 0,
+      "heightPx": 690,
+      "headings": [
+        "가명님의 겉도화는"
+      ],
+      "chips": [],
+      "buttons": [],
+      "imageAlts": [
+        "겉도화 결과 이미지"
+      ],
+      "textPreview": "가명님의 겉도화는 붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 존재감여운강렬함 당신은 설명보다 장면으로 남습니다. 제 눈엔, 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
+    },
+    {
+      "order": 1,
+      "key": "face_overview",
+      "selector": "#face-overview",
+      "tag": "section",
+      "id": "face-overview",
+      "className": "panel-card reveal-card face-overview-section",
+      "topPx": 708,
+      "heightPx": 718,
+      "headings": [
+        "사람들은 당신을 이렇게 먼저 봅니다"
+      ],
+      "chips": [],
+      "buttons": [],
+      "imageAlts": [],
+      "textPreview": "겉도화 개요 사람들은 당신을 이렇게 먼저 봅니다 겉도화는 깊은 관계가 시작되기 전,상대가 처음 느끼는 당신의 매력입니다. 말투, 표정, 거리감, 분위기 사이에서가장 먼저 남는 인상이 여기에 잡힙니다. 첫인상 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다. 남는 방식 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 장면이 나중에 다시 떠오릅니다. 오해 포인트 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다."
+    },
+    {
+      "order": 2,
+      "key": "saju_pillars",
+      "selector": "#free-pillar-table",
+      "tag": "section",
+      "id": "free-pillar-table",
+      "className": "saju-pillar-section reveal-card",
+      "topPx": 1444,
+      "heightPx": 445,
+      "headings": [
+        "사주원국 속 도화의 결"
+      ],
+      "chips": [],
+      "buttons": [],
+      "imageAlts": [],
+      "textPreview": "사주원국 사주원국 속 도화의 결 먼저 본 건 당신의 생년월일과 기준입니다.대답은 그 다음이죠. 시주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 일주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 월주 己 천간 · 토 · 편관 未 지지 · 토 · 편관 연주 戊 천간 · 토 · 정관 寅 지지 · 목 · 상관 시주는 도화가 실제 관계에서 어디서 새는지 좁혀줍니다. 겉으로 먼저 보이는 매력과, 원국 안에 남은 나머지 단서는 서로 다를 수 있죠."
+    },
+    {
+      "order": 3,
+      "key": "origin_summary",
+      "selector": "#free-origin-summary",
+      "tag": "article",
+      "id": "free-origin-summary",
+      "className": "report-chapter reveal-card saju-origin-card free-origin-summary",
+      "topPx": 1907,
+      "heightPx": 669,
+      "headings": [
+        "원국은 이미 한쪽을 가리키고 있습니다."
+      ],
+      "chips": [],
+      "buttons": [],
+      "imageAlts": [],
+      "textPreview": "왜 이렇게 나왔는가 원국은 이미 한쪽을 가리키고 있습니다. 먼저 당신의 사주원국에서 월지, 일간, 일지를 봤습니다.이 세 자리는 당신의 도화가 어떻게 드러나는지를 보여줍니다. 월지 未(미) 사람들 사이에서 처음 잡히는 분위기입니다. 일간 癸(계) 관계 안에서 당신이 자신을 드러내는 방식입니다. 일지 亥(해) 처음 본 인상이 상대 기억에 다시 남는 자리입니다. 이 세 자리가 같은 방향으로 기울 때,겉도화는 단순한 호감이 아니라 하나의 유형으로 잡힙니다. 가명님의 경우,그 결이 붉은 장미형 쪽으로 먼저 드러납니다."
+    },
+    {
+      "order": 4,
+      "key": "face_card",
+      "selector": "#share",
+      "tag": "section",
+      "id": "share",
+      "className": "panel-card share-section reveal-card",
+      "topPx": 2594,
+      "heightPx": 694,
+      "headings": [
+        "당신의 겉도화"
+      ],
+      "chips": [],
+      "buttons": [
+        "친구에게 공유하기",
+        "카드 이미지 저장하기"
+      ],
+      "imageAlts": [],
+      "textPreview": "당신의 겉도화 겉도화는 사람들이 처음 보는 당신입니다.아직 깊게 들어오기 전, 말투와 분위기와 첫인상 사이에서 먼저 남는 결이죠. 붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 존재감여운강렬함 친구에게 공유하기 카드 이미지 저장하기"
+    },
+    {
+      "order": 5,
+      "key": "face_public_explanation",
+      "selector": "#face-dohwa-explanation",
+      "tag": "section",
+      "id": "face-dohwa-explanation",
+      "className": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation",
+      "topPx": 3306,
+      "heightPx": 843,
+      "headings": [
+        "붉은 장미형은 어떻게 보이는가",
+        "당신은 장면의 중심으로 남습니다"
+      ],
+      "chips": [],
+      "buttons": [],
+      "imageAlts": [],
+      "textPreview": "겉도화 해석 붉은 장미형은 어떻게 보이는가 겉도화는 내가 생각하는 내 모습이 아니라,상대가 처음 겪는 나의 인상입니다. 당신은 장면의 중심으로 남습니다 당신은 말을 많이 해서 기억되는 쪽이 아닙니다. 오히려 아무 말 없이 지나간 장면에서 더 선명해질 때가 있습니다.상대는 당신이 무엇을 했는지보다, 당신이 그 자리에 있었다는 사실을 더 오래 기억합니다.좋게 말하면 존재감이고, 솔직히 말하면 상대가 편하게만 볼 수 없는 사람입니다. 원국으로 보면, 이 결은 월지에서 먼저 잡힙니다.바로 튀기보다 안정감으로 남습니다. 처음엔 잔잔해도 뒤늦게 무게가 생깁니다. 일간은 이 매력이 밖으로 드러나는 방식을 보여줍니다.한 박자 늦은 반응과 여운으로 드러"
+    },
+    {
+      "order": 6,
+      "key": "professional_locked_area",
+      "selector": "#professional-locked-area",
+      "tag": "section",
+      "id": "professional-locked-area",
+      "className": "professional-locked-area reveal-card",
+      "topPx": 4167,
+      "heightPx": 545,
+      "headings": [
+        "아직 닫힌 해석이 남아 있습니다"
+      ],
+      "chips": [],
+      "buttons": [
+        "전문 열람하기"
+      ],
+      "imageAlts": [],
+      "textPreview": "LOCKED · 전문 아직 닫힌 해석이 남아 있습니다 지금 보신 건 겉도화의 앞부분입니다.전문에는 이 판정이 왜 나왔는지,그리고 어떤 지표가 강하게 잡혔는지가 이어집니다. 🔒 원국 해석 전문 월지·일간·일지가 왜 붉은 장미형으로 모이는지 🔒 겉도화 해석 전문 상대가 당신을 어떤 장면에서 더 강하게 기억하는지 🔒 도화 지표 전체 존재감 / 신비감 / 부드러움 / 플러팅 / 깊이 전문 열람하기 공유로 무료 열람하거나, 공유 없이 바로 열 수 있습니다."
+    },
+    {
+      "order": 7,
+      "key": "bottom_unlock_gate",
+      "selector": "#share-unlock",
+      "tag": "section",
+      "id": "share-unlock",
+      "className": "share-unlock-gate reveal-card",
+      "topPx": 4734,
+      "heightPx": 445,
+      "headings": [
+        "전문은 여기서 멈춰 있습니다"
+      ],
+      "chips": [],
+      "buttons": [
+        "전문 열람하기"
+      ],
+      "imageAlts": [],
+      "textPreview": "LOCKED · 전문 전문은 여기서 멈춰 있습니다 원국 해석 전문, 겉도화 해석 전문, 도화 지표는 아직 닫혀 있습니다. 계속 보려면 열람 방법을 선택해주세요. 전문에서 열리는 항목 원국 해석 전문 겉도화 해석 전문 도화 지표 전체 전문 열람하기 공유 카드에는 생년월일과 고민 내용이 들어가지 않습니다. 공유가 부담스럽다면, 990원으로 바로 열 수도 있습니다."
+    }
+  ],
+  "modal": {
+    "className": "modal-sheet share-preview-modal unlock-choice-modal",
+    "title": "여기서부터는 전문 해석입니다",
+    "buttons": [
+      "×",
+      "카톡 공유하고 무료로 열기",
+      "공유 없이 990원으로 바로 열기",
+      "지금은 닫기"
+    ],
+    "textPreview": "여기서부터는 전문 해석입니다 × 지금까지는 사람들이 처음 보는 당신의 도화를 읽었습니다. 아래부터는 원국 해석 전문,겉도화 해석 전문,도화 지표가 이어집니다. 계속 읽을 방법을 선택해주세요. 무료 카톡 공유하고 무료로 열기 생년월일과 고민 내용은 공유되지 않습니다. 나의 겉도화: 붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 내 도화 유형 확인하기 카톡 공유하고 무료로 열기 바로 열람 공유 없이 990원으로 바로 열기 조용히 전문만 열람할 수 있습니다. 공유 없이 990원으로 바로 열기 지금은 닫기"
+  },
+  "floatingCtaTexts": [],
+  "consoleErrors": [],
+  "generatedAtKst": "2026-06-23T14:15:07+09:00",
+  "previewUrl": "https://hyeonwol-free-result-interrupt-v1-5l4bxgbj9.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "screenshots": {
+    "fullLong390px": "screenshots/free-result-unlock-modal-interrupt-v1-visual-audit/00-full-long-390px.png",
+    "sectionScreenshots": [
+      {
+        "name": "01-judgment-hero",
+        "selector": "#judgment",
+        "file": "01-judgment-hero.png"
+      },
+      {
+        "name": "02-face-overview",
+        "selector": "#face-overview",
+        "file": "02-face-overview.png"
+      },
+      {
+        "name": "03-saju-pillars",
+        "selector": "#free-pillar-table",
+        "file": "03-saju-pillars.png"
+      },
+      {
+        "name": "04-origin-summary",
+        "selector": "#free-origin-summary",
+        "file": "04-origin-summary.png"
+      },
+      {
+        "name": "05-face-card",
+        "selector": "#share",
+        "file": "05-face-card.png"
+      },
+      {
+        "name": "06-face-public-explanation",
+        "selector": "#face-dohwa-explanation",
+        "file": "06-face-public-explanation.png"
+      },
+      {
+        "name": "07-professional-locked-area",
+        "selector": "#professional-locked-area",
+        "file": "07-professional-locked-area.png"
+      },
+      {
+        "name": "08-bottom-unlock-gate",
+        "selector": "#share-unlock",
+        "file": "08-bottom-unlock-gate.png"
+      }
+    ],
+    "autoModal": "screenshots/free-result-unlock-modal-interrupt-v1-visual-audit/09-auto-unlock-choice-modal-viewport.png"
+  }
+}
