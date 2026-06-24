@@ -1,0 +1,20 @@
+{
+  "taskName": "free-result-v1-5-mobile-feedback-handoff",
+  "previewUrl": "https://hyeonwol-free-result-interrupt-v1-5lopdthb2.vercel.app",
+  "mobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-5lopdthb2.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "handoffRawUrl": "https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/docs/free-result-unlock-modal-interrupt-v1-5-feedback-handoff.md",
+  "screenshotMontageRawUrl": "https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/screenshots/montage/free-result-unlock-modal-interrupt-v1-5-feedback-montage.png",
+  "domSummaryRawUrl": "https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/json/free-result-unlock-modal-interrupt-v1-5-feedback-dom-summary.json",
+  "qaJsonRawUrl": "https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/json/free-result-unlock-modal-interrupt-v1-5-feedback-qa.json",
+  "rawLinksRawUrl": "https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/raw-links.md",
+  "productionDeployed": false,
+  "codeModified": true,
+  "cssModified": true,
+  "metaWriteExecuted": false,
+  "kakaoSettingsChanged": false,
+  "paymentSettingsChanged": false,
+  "realPaymentExecuted": false,
+  "testPaymentExecuted": false,
+  "srcSajuModified": false,
+  "secretIncluded": false
+}

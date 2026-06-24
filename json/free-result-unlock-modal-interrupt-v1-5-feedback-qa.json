@@ -1,0 +1,252 @@
+{
+  "previewUrl": "https://hyeonwol-free-result-interrupt-v1-5lopdthb2.vercel.app",
+  "mobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-5lopdthb2.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80+%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80+%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "viewports": [
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "badCopyMatches": [],
+        "subCopies": [
+          "월지 토의 묵직함은 튀기보다 안정적인 인상으로 남습니다.",
+          "일지 수의 여운은 지나간 장면을 나중에 다시 떠오르게 만듭니다.",
+          "일간 수의 늦은 반응은 애매함처럼 읽힐 수 있습니다."
+        ],
+        "overviewCardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "shareVisibleHeadingOrChipText": "",
+        "triangleLabels": [
+          "월지(미)",
+          "일간(계)",
+          "일지(해)"
+        ],
+        "triangleStrongCount": 0,
+        "personalizationBeforeTriangle": true,
+        "conclusionAfterTriangle": true,
+        "lockedBlurSectionsOk": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "badCopyMatches": [],
+        "subCopies": [
+          "월지 토의 묵직함은 튀기보다 안정적인 인상으로 남습니다.",
+          "일지 수의 여운은 지나간 장면을 나중에 다시 떠오르게 만듭니다.",
+          "일간 수의 늦은 반응은 애매함처럼 읽힐 수 있습니다."
+        ],
+        "overviewCardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "shareVisibleHeadingOrChipText": "",
+        "triangleLabels": [
+          "월지(미)",
+          "일간(계)",
+          "일지(해)"
+        ],
+        "triangleStrongCount": 0,
+        "personalizationBeforeTriangle": true,
+        "conclusionAfterTriangle": true,
+        "lockedBlurSectionsOk": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "badCopyMatches": [],
+        "subCopies": [
+          "월지 토의 묵직함은 튀기보다 안정적인 인상으로 남습니다.",
+          "일지 수의 여운은 지나간 장면을 나중에 다시 떠오르게 만듭니다.",
+          "일간 수의 늦은 반응은 애매함처럼 읽힐 수 있습니다."
+        ],
+        "overviewCardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "shareVisibleHeadingOrChipText": "",
+        "triangleLabels": [
+          "월지(미)",
+          "일간(계)",
+          "일지(해)"
+        ],
+        "triangleStrongCount": 0,
+        "personalizationBeforeTriangle": true,
+        "conclusionAfterTriangle": true,
+        "lockedBlurSectionsOk": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "badCopyMatches": [],
+        "subCopies": [
+          "월지 토의 묵직함은 튀기보다 안정적인 인상으로 남습니다.",
+          "일지 수의 여운은 지나간 장면을 나중에 다시 떠오르게 만듭니다.",
+          "일간 수의 늦은 반응은 애매함처럼 읽힐 수 있습니다."
+        ],
+        "overviewCardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "shareVisibleHeadingOrChipText": "",
+        "triangleLabels": [
+          "월지(미)",
+          "일간(계)",
+          "일지(해)"
+        ],
+        "triangleStrongCount": 0,
+        "personalizationBeforeTriangle": true,
+        "conclusionAfterTriangle": true,
+        "lockedBlurSectionsOk": true
+      }
+    }
+  ],
+  "personas": [
+    {
+      "persona": "붉은 장미형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "붉은 장미형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "차가운 달빛형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "차가운 달빛형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "첫눈의 뮤즈형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "첫눈의 뮤즈형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "무심한 고양이형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "무심한 고양이형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "복숭아 안개형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "복숭아 안개형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "검은 향수형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "검은 향수형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "햇살 플러팅형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "햇살 플러팅형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "푸른 불꽃형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "푸른 불꽃형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    }
+  ],
+  "autoModal": {
+    "appeared": 1,
+    "afterClose": 0,
+    "reappeared": 0
+  },
+  "postShare": {
+    "modalCount": 0,
+    "hasUnlockedCue": 1
+  },
+  "screenshots": [
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/01-full-page-390.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/02-hero.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/03-face-overview.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/04-share-card.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/05-origin-summary.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/06-face-explanation.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/07-professional-locked.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/08-indicators-blur.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/09-face-professional-blur.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/10-origin-professional-blur.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/11-bottom-gate.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-feedback/12-auto-unlock-modal.png"
+  ],
+  "consoleErrorsTotal": 0
+}
