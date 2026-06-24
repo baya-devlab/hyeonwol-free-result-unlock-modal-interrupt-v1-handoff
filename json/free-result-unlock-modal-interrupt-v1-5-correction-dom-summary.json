@@ -1,0 +1,244 @@
+{
+  "previewUrl": "https://hyeonwol-free-result-interrupt-v1-owfbyrx46.vercel.app",
+  "mobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-owfbyrx46.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "generatedAt": "2026-06-24T04:23:30.576Z",
+  "representativeViewport": {
+    "width": 390,
+    "height": 844
+  },
+  "sections": [
+    {
+      "index": 0,
+      "tag": "section",
+      "id": "judgment",
+      "selector": "#judgment",
+      "classList": [
+        "judgment-reveal"
+      ],
+      "top": 0,
+      "height": 690,
+      "heading": "가명님의 겉도화는",
+      "buttons": [],
+      "notes": {
+        "partialTailCount": 0,
+        "blurGateCount": 0,
+        "autoUnlockTrigger": false,
+        "originPersonalization": 0,
+        "originCycleNodes": 0,
+        "originCycleStrongCount": 0
+      }
+    },
+    {
+      "index": 1,
+      "tag": "section",
+      "id": "face-overview",
+      "selector": "#face-overview",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-overview-section"
+      ],
+      "top": 708,
+      "height": 741,
+      "heading": "겉도화 개요",
+      "buttons": [],
+      "notes": {
+        "partialTailCount": 0,
+        "blurGateCount": 0,
+        "autoUnlockTrigger": false,
+        "originPersonalization": 0,
+        "originCycleNodes": 0,
+        "originCycleStrongCount": 0
+      }
+    },
+    {
+      "index": 2,
+      "tag": "section",
+      "id": "share",
+      "selector": "#share",
+      "classList": [
+        "panel-card",
+        "share-section",
+        "reveal-card"
+      ],
+      "top": 1467,
+      "height": 560,
+      "heading": "",
+      "buttons": [
+        {
+          "text": "친구에게 공유하기",
+          "action": "face-dohwa-share",
+          "source": "share_card"
+        },
+        {
+          "text": "카드 이미지 저장하기",
+          "action": "download-card",
+          "source": ""
+        }
+      ],
+      "notes": {
+        "partialTailCount": 0,
+        "blurGateCount": 0,
+        "autoUnlockTrigger": false,
+        "originPersonalization": 0,
+        "originCycleNodes": 0,
+        "originCycleStrongCount": 0
+      }
+    },
+    {
+      "index": 3,
+      "tag": "section",
+      "id": "free-origin-summary",
+      "selector": "#free-origin-summary",
+      "classList": [
+        "free-origin-summary",
+        "free-origin-integrated",
+        "reveal-card"
+      ],
+      "top": 2045,
+      "height": 1031,
+      "heading": "왜 이렇게 나왔는가",
+      "buttons": [],
+      "notes": {
+        "partialTailCount": 0,
+        "blurGateCount": 0,
+        "autoUnlockTrigger": false,
+        "originPersonalization": 3,
+        "originCycleNodes": 3,
+        "originCycleStrongCount": 0
+      }
+    },
+    {
+      "index": 4,
+      "tag": "section",
+      "id": "face-dohwa-explanation",
+      "selector": "#face-dohwa-explanation",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-dohwa-explanation",
+        "face-dohwa-public-explanation"
+      ],
+      "top": 3094,
+      "height": 724,
+      "heading": "겉도화 해석",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "face_dohwa_explanation_partial_blur_gate"
+        }
+      ],
+      "notes": {
+        "partialTailCount": 1,
+        "blurGateCount": 1,
+        "autoUnlockTrigger": false,
+        "originPersonalization": 0,
+        "originCycleNodes": 0,
+        "originCycleStrongCount": 0
+      }
+    },
+    {
+      "index": 5,
+      "tag": "div",
+      "id": "",
+      "selector": ".locked-professional-stack",
+      "classList": [
+        "locked-professional-stack"
+      ],
+      "top": 3835,
+      "height": 2103,
+      "heading": "도화 지표",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "dohwa_indicator_blur_gate"
+        },
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "locked_face_dohwa_professional_gate"
+        },
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "origin_reading_blur_gate"
+        }
+      ],
+      "notes": {
+        "partialTailCount": 0,
+        "blurGateCount": 3,
+        "autoUnlockTrigger": false,
+        "originPersonalization": 0,
+        "originCycleNodes": 0,
+        "originCycleStrongCount": 0
+      }
+    },
+    {
+      "index": 6,
+      "tag": "section",
+      "id": "professional-locked-area",
+      "selector": "#professional-locked-area",
+      "classList": [
+        "professional-locked-area",
+        "reveal-card"
+      ],
+      "top": 5956,
+      "height": 545,
+      "heading": "LOCKED · 전문",
+      "buttons": [
+        {
+          "text": "전문 열람하기",
+          "action": "face-dohwa-share",
+          "source": "professional_locked_area"
+        }
+      ],
+      "notes": {
+        "partialTailCount": 0,
+        "blurGateCount": 0,
+        "autoUnlockTrigger": true,
+        "originPersonalization": 0,
+        "originCycleNodes": 0,
+        "originCycleStrongCount": 0
+      }
+    }
+  ],
+  "keyChecks": {
+    "originProseParagraphs": [
+      "원국표에서 먼저 잡히는 건 월지의 未(미)입니다. 이 자리는 사람들 사이에 들어섰을 때, 당신의 분위기가 어떤 온도로 먼저 읽히는지를 보여줍니다.",
+      "그 인상은 일지의 亥(해)를 지나며 상대 기억 속에 다시 남고, 일간의 癸(계)을 통해 밖으로 드러나는 태도가 됩니다. 그래서 이 결과는 한 글자만 보고 붙인 이름이 아닙니다.",
+      "처음 보이는 결, 기억에 남는 방식, 밖으로 새는 태도가 한쪽으로 맞물릴 때 겉도화는 하나의 유형으로 잡힙니다."
+    ],
+    "originBlockBeforeCycle": true,
+    "conclusionAfterCycle": true,
+    "conclusionText": "이 세 자리가 같은 방향으로 기울 때, 겉도화는 단순한 호감이 아니라 하나의 유형으로 잡힙니다. 가명님의 경우, 월지의 未(미), 일지의 亥(해), 일간의 癸(계)이 첫 장면의 무게가 상대 기억 안에서 다시 떠오르고, 그 여운이 태도로 새어 나오는 관계로 맞물리기 때문에, 전형적인 붉은 장미형 쪽으로 드러납니다.",
+    "conclusionHasTypical": true,
+    "conclusionHasRelation": true,
+    "conclusionHasRequiredOrder": true,
+    "triangleLabels": [
+      "월지(미)",
+      "일간(계)",
+      "일지(해)"
+    ],
+    "triangleStrongCount": 0,
+    "facePartialTailCount": 1,
+    "faceExplanationButtons": [
+      {
+        "text": "🔒 전문 보기",
+        "action": "face-dohwa-share",
+        "source": "face_dohwa_explanation_partial_blur_gate"
+      }
+    ],
+    "professionalLockedOrder": {
+      "faceExplanation": 3094,
+      "indicators": 3835,
+      "lockedFaceProfessional": 4654,
+      "freeOriginReading": 5237,
+      "professionalLockedArea": 5956
+    },
+    "professionalAfterBlurSections": true,
+    "lockedCtaVisibleCount": 1,
+    "lockedBlurSectionsOk": true
+  }
+}
