@@ -1,0 +1,18 @@
+{
+  "taskName": "hyeonwol-production-fast-deploy-post-qa",
+  "productionDeployed": true,
+  "realPaymentExecuted": false,
+  "testPaymentExecuted": false,
+  "metaWriteExecuted": false,
+  "adLaunchExecuted": false,
+  "srcSajuModified": false,
+  "paymentConfigModified": false,
+  "kakaoConfigModified": false,
+  "metaConfigModified": false,
+  "stableQaUrl": "https://hyeonwol-free-result-interrupt-v1-qa.vercel.app",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "previousProductionDeployment": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "newProductionDeployment": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackAvailable": true,
+  "secretIncluded": false
+}

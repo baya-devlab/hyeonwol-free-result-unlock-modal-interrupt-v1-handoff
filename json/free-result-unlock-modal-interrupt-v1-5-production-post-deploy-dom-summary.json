@@ -1,0 +1,153 @@
+{
+  "taskName": "hyeonwol-production-fast-deploy-post-qa-dom-summary",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "capturedFrom": "https://hyeonwol.dasi.ing/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "sections": [
+    {
+      "id": "judgment",
+      "className": "judgment-reveal",
+      "top": 0,
+      "height": 706,
+      "heading": "가명님의 겉도화는",
+      "notes": ""
+    },
+    {
+      "id": "face-overview",
+      "className": "panel-card reveal-card face-overview-section",
+      "top": 700,
+      "height": 757,
+      "heading": "사람들은 당신을 이렇게 먼저 봅니다",
+      "notes": ""
+    },
+    {
+      "id": "share",
+      "className": "panel-card share-section reveal-card",
+      "top": 1459,
+      "height": 558,
+      "heading": "",
+      "notes": ""
+    },
+    {
+      "id": "free-origin-summary",
+      "className": "free-origin-summary free-origin-integrated reveal-card",
+      "top": 2018,
+      "height": 1071,
+      "heading": "원국은 이미 한쪽을 가리키고 있습니다.",
+      "notes": ""
+    },
+    {
+      "id": "face-dohwa-explanation",
+      "className": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation",
+      "top": 3090,
+      "height": 831,
+      "heading": "붉은 장미형은 장면의 중심으로 남습니다",
+      "notes": ""
+    },
+    {
+      "id": "indicators",
+      "className": "panel-card indicator-section reveal-card",
+      "top": 3923,
+      "height": 819,
+      "heading": "당신의 겉도화는 다섯 가지 결로 나뉩니다.",
+      "notes": "Auto unlock choice trigger section in locked/pre-share state."
+    },
+    {
+      "id": "locked-face-dohwa-professional",
+      "className": "panel-card reveal-card face-dohwa-explanation locked-professional-section locked-face-dohwa-professional",
+      "top": 4741,
+      "height": 555,
+      "heading": "붉은 장미형의 진모습",
+      "notes": ""
+    },
+    {
+      "id": "professional-locked-area",
+      "className": "professional-locked-area reveal-card",
+      "top": 6012,
+      "height": 587,
+      "heading": "아직 닫힌 해석이 남아 있습니다",
+      "notes": "Final LOCKED CTA remains manual only."
+    }
+  ],
+  "manualCtaSources": [
+    {
+      "source": "face_dohwa_explanation_partial_blur_gate",
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal"
+    },
+    {
+      "source": "dohwa_indicator_blur_gate",
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal"
+    },
+    {
+      "source": "locked_face_dohwa_professional_gate",
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal"
+    },
+    {
+      "source": "origin_reading_blur_gate",
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal"
+    },
+    {
+      "source": "professional_locked_area",
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal"
+    }
+  ],
+  "postShareUnlocked": {
+    "autoTriggerCount": 0,
+    "brokenImages": 0,
+    "modalVisible": false,
+    "overflow": 0,
+    "paymentModalVisible": false,
+    "sections": [
+      {
+        "cls": "judgment-reveal",
+        "heading": "가명님의 겉도화는",
+        "id": "judgment"
+      },
+      {
+        "cls": "saju-pillar-section reveal-card",
+        "heading": "사주원국 속 도화의 결",
+        "id": "free-pillar-table"
+      },
+      {
+        "cls": "unlock-return-cue reveal-card",
+        "heading": "",
+        "id": ""
+      },
+      {
+        "cls": "panel-card share-section reveal-card",
+        "heading": "",
+        "id": "share"
+      },
+      {
+        "cls": "panel-card reveal-card face-dohwa-explanation",
+        "heading": "당신은 장면의 중심으로 남습니다",
+        "id": "face-dohwa-explanation"
+      },
+      {
+        "cls": "panel-card indicator-section reveal-card",
+        "heading": "당신의 겉도화는 다섯 가지 결로 나뉩니다.",
+        "id": "indicators"
+      },
+      {
+        "cls": "down-gate-cue",
+        "heading": "",
+        "id": ""
+      },
+      {
+        "cls": "hidden-unlock reveal-card",
+        "heading": "\"속도화\" 차트가 열렸습니다.",
+        "id": "hidden"
+      }
+    ],
+    "speedUnlockedText": true,
+    "url": "https://hyeonwol.dasi.ing/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95&speedUnlocked=1"
+  }
+}

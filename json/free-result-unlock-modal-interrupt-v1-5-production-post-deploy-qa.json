@@ -1,0 +1,318 @@
+{
+  "taskName": "hyeonwol-production-fast-deploy-post-qa",
+  "checkedAtKst": "2026-06-24 15:41-15:55 KST",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "stableQaUrl": "https://hyeonwol-free-result-interrupt-v1-qa.vercel.app",
+  "stableImmutablePreviewUrl": "https://hyeonwol-free-result-interrupt-v1-7m2tir94p.vercel.app",
+  "previousProductionDeployment": {
+    "id": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+    "url": "https://dowhadoryung-hyeonwol-kuitpuwki-bayas-projects-36f7157a.vercel.app",
+    "createdKst": "2026-06-22 18:44:19 KST"
+  },
+  "newProductionDeployment": {
+    "id": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+    "url": "https://dowhadoryung-hyeonwol-i5dz4nen0-bayas-projects-36f7157a.vercel.app",
+    "createdKst": "2026-06-24 15:41:28 KST",
+    "alias": "https://hyeonwol.dasi.ing"
+  },
+  "preDeployChecks": {
+    "npmRunCheck": "PASS",
+    "npmRunCheckApi": "PASS",
+    "npmRunCheckLaunch": "PASS (mock payment readiness only)",
+    "gitDiffCheck": "PASS",
+    "changedFiles": [
+      "docs/payment-live-readiness-latest.json",
+      "src/main.js",
+      "src/styles.css"
+    ],
+    "srcSajuModified": false,
+    "dbMigrationModified": false,
+    "paymentKakaoMetaEnvModified": false
+  },
+  "smoke": {
+    "production200": true,
+    "productionPreview200": true,
+    "realInputFlowReachedFreeResult": true,
+    "consoleErrors": 0,
+    "brokenImages": 0,
+    "horizontalOverflow": 0
+  },
+  "autoModal": {
+    "partialBlurAutoModalVisible": false,
+    "indicatorAutoModalVisible": true,
+    "closeThenAutoReopen": false,
+    "postShareUnlockedAutoModalVisible": false,
+    "postShareAutoTriggerCount": 0
+  },
+  "manualCtaResults": [
+    {
+      "source": "face_dohwa_explanation_partial_blur_gate",
+      "count": 1,
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal",
+      "textSample": "여기서부터는 전문 해석입니다\n×\n\n지금까지는 사람들이 처음 보는 당신의 도화를 읽었습니다.\n\n아래부터는 원국 해석 전문,\n겉도화 해석 전문,\n도화 지표가 이어집니다.\n\n계속 읽을 방법을 선택해주세요.\n\n무료\n카톡 공유하고 무료로 열기\n\n생년월일과 고민 내용은 공유되지 않습니다.\n\n나의 겉도화: 붉은 장미형\n\n스쳐 가도 이"
+    },
+    {
+      "source": "dohwa_indicator_blur_gate",
+      "count": 1,
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal",
+      "textSample": "여기서부터는 전문 해석입니다\n×\n\n지금까지는 사람들이 처음 보는 당신의 도화를 읽었습니다.\n\n아래부터는 원국 해석 전문,\n겉도화 해석 전문,\n도화 지표가 이어집니다.\n\n계속 읽을 방법을 선택해주세요.\n\n무료\n카톡 공유하고 무료로 열기\n\n생년월일과 고민 내용은 공유되지 않습니다.\n\n나의 겉도화: 붉은 장미형\n\n스쳐 가도 이"
+    },
+    {
+      "source": "locked_face_dohwa_professional_gate",
+      "count": 1,
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal",
+      "textSample": "여기서부터는 전문 해석입니다\n×\n\n지금까지는 사람들이 처음 보는 당신의 도화를 읽었습니다.\n\n아래부터는 원국 해석 전문,\n겉도화 해석 전문,\n도화 지표가 이어집니다.\n\n계속 읽을 방법을 선택해주세요.\n\n무료\n카톡 공유하고 무료로 열기\n\n생년월일과 고민 내용은 공유되지 않습니다.\n\n나의 겉도화: 붉은 장미형\n\n스쳐 가도 이"
+    },
+    {
+      "source": "origin_reading_blur_gate",
+      "count": 1,
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal",
+      "textSample": "여기서부터는 전문 해석입니다\n×\n\n지금까지는 사람들이 처음 보는 당신의 도화를 읽었습니다.\n\n아래부터는 원국 해석 전문,\n겉도화 해석 전문,\n도화 지표가 이어집니다.\n\n계속 읽을 방법을 선택해주세요.\n\n무료\n카톡 공유하고 무료로 열기\n\n생년월일과 고민 내용은 공유되지 않습니다.\n\n나의 겉도화: 붉은 장미형\n\n스쳐 가도 이"
+    },
+    {
+      "source": "professional_locked_area",
+      "count": 1,
+      "opened": true,
+      "modalClass": "modal-sheet share-preview-modal unlock-choice-modal",
+      "textSample": "여기서부터는 전문 해석입니다\n×\n\n지금까지는 사람들이 처음 보는 당신의 도화를 읽었습니다.\n\n아래부터는 원국 해석 전문,\n겉도화 해석 전문,\n도화 지표가 이어집니다.\n\n계속 읽을 방법을 선택해주세요.\n\n무료\n카톡 공유하고 무료로 열기\n\n생년월일과 고민 내용은 공유되지 않습니다.\n\n나의 겉도화: 붉은 장미형\n\n스쳐 가도 이"
+    }
+  ],
+  "shareAndSave": {
+    "sharePreviewOpened": true,
+    "externalShareSent": false,
+    "sharePreviewContainsSensitiveBirthInfo": false,
+    "imageSaveButtonClicked": true,
+    "imageSaveToastVisible": true,
+    "downloadEventCapturedByBrowserRuntime": false,
+    "downloadEventNote": "The in-app browser did not expose a download event, but the app toast appeared and no console errors were logged."
+  },
+  "paymentStart": {
+    "unlockChoicePaySelectOpenedPaymentModal": true,
+    "payButtonVisible": true,
+    "portoneFrameOpened": false,
+    "paymentCompleted": false
+  },
+  "personaResults": [
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "붉은 장미형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n붉은 장미형\n\n스쳐 가도 이상하게 오래 기억에 남는 사람\n\n존재감\n여운\n강렬함\n\n당신은 설명보다 장면으로 남습니다. 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
+    },
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "차가운 달빛형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n차가운 달빛형\n\n무심한 거리감 때문에 더 궁금해지는 사람\n\n신비감\n거리감\n서늘함\n\n다가오라고 말하지 않아도 사람이 멈춰 섭니다. 문제는 당신이 만든 거리감에 상대가 더 깊이 묶인다는 겁니다."
+    },
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "첫눈의 뮤즈형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n첫눈의 뮤즈형\n\n조심스럽게 시선을 붙잡고 보호 본능을 건드리는 사람\n\n순수함\n보호 본능\n서정성\n\n쉽게 밝히지 않는 연약함이 마음을 천천히 흔듭니다. 약해 보여서가 아니라, 오래 보고 싶게 만들어서입니다."
+    },
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "무심한 고양이형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n무심한 고양이형\n\n잡히지 않을수록 더 따라가고 싶어지는 사람\n\n입체감\n변덕\n중독성\n\n당신의 매력은 친절한 설명이 아니라 예측 불가능한 온도에서 나옵니다. 이 결은 꽤 위험하게 보입니다."
+    },
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "복숭아 안개형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n복숭아 안개형\n\n따뜻하고 선명하지 않아서 더 가까이 가고 싶어지는 사람\n\n온기\n부드러움\n몽환성\n\n당신은 상대를 안심시키는 척하면서 묘한 여지를 남깁니다. 좋게 말하면 온기고, 솔직히 말하면 헷갈리게 하는 재주죠."
+    },
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "검은 향수형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n검은 향수형\n\n가볍게 시작해도 깊게 빠지게 만드는 사람\n\n깊이\n관능\n위험함\n\n처음엔 조용해 보이는데, 들어가면 쉽게 나오지 못합니다. 말하자면 당신은 맑은 물이 아닙니다."
+    },
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "햇살 플러팅형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n햇살 플러팅형\n\n친구처럼 웃다가 어느 순간 마음을 흔들어버리는 사람\n\n친근함\n장난기\n설렘\n\n가볍게 던진 말도 상대는 의미를 찾습니다. 당신은 장난이라고 넘긴 순간, 이미 누군가의 리듬을 흔듭니다."
+    },
+    {
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "푸른 불꽃형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n푸른 불꽃형\n\n차분하고 이성적인데 묘하게 뜨거운 사람\n\n지성\n통제감\n차분한 섹시함\n\n감정을 드러내지 않는 방식이 오히려 선명합니다. 참는 쪽에서 도화가 더 강해지는 사람입니다."
+    }
+  ],
+  "viewportResults": [
+    {
+      "viewport": "360x740",
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "붉은 장미형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n붉은 장미형\n\n스쳐 가도 이상하게 오래 기억에 남는 사람\n\n존재감\n여운\n강렬함\n\n당신은 설명보다 장면으로 남습니다. 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
+    },
+    {
+      "viewport": "375x812",
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "붉은 장미형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n붉은 장미형\n\n스쳐 가도 이상하게 오래 기억에 남는 사람\n\n존재감\n여운\n강렬함\n\n당신은 설명보다 장면으로 남습니다. 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
+    },
+    {
+      "viewport": "390x844",
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "붉은 장미형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n붉은 장미형\n\n스쳐 가도 이상하게 오래 기억에 남는 사람\n\n존재감\n여운\n강렬함\n\n당신은 설명보다 장면으로 남습니다. 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
+    },
+    {
+      "viewport": "430x932",
+      "brokenImages": 0,
+      "hasExplanation": true,
+      "hasIndicator": true,
+      "hasLockedFace": true,
+      "hasOrigin": true,
+      "hasOverview": true,
+      "hasPersona": true,
+      "hasProfessionalLocked": true,
+      "hasShareCard": true,
+      "modalVisibleInitially": false,
+      "overflow": 0,
+      "persona": "붉은 장미형",
+      "sectionCount": 8,
+      "titleText": "가명님의 겉도화는\n붉은 장미형\n\n스쳐 가도 이상하게 오래 기억에 남는 사람\n\n존재감\n여운\n강렬함\n\n당신은 설명보다 장면으로 남습니다. 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
+    }
+  ],
+  "eventAdminAnalytics": {
+    "checked": false,
+    "note": "Not verified against admin/DB/Meta in this fast deploy QA; no write operations were performed."
+  },
+  "forbiddenOperations": {
+    "realPaymentExecuted": false,
+    "testPaymentExecuted": false,
+    "metaWriteExecuted": false,
+    "adLaunchExecuted": false,
+    "envChanged": false,
+    "dbSchemaChanged": false,
+    "srcSajuModified": false,
+    "openAiCalled": false
+  },
+  "rollback": {
+    "available": true,
+    "targetDeploymentId": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+    "command": "vercel rollback dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv --yes"
+  }
+}
