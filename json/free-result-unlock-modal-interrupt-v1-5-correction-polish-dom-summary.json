@@ -1,0 +1,648 @@
+[
+  {
+    "id": "hero",
+    "selector": "#judgment",
+    "found": true,
+    "className": "judgment-reveal",
+    "top": 0,
+    "height": 690,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "가명님의 겉도화는",
+        "className": "reveal-step step-1"
+      }
+    ],
+    "buttons": [],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "result-overlay"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "judgment-copy"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "keyword-row reveal-step step-4"
+      }
+    ],
+    "textSample": "가명님의 겉도화는 붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 존재감여운강렬함 당신은 설명보다 장면으로 남습니다. 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
+  },
+  {
+    "id": "face_overview",
+    "selector": "#face-overview",
+    "found": true,
+    "className": "panel-card reveal-card face-overview-section",
+    "top": 708,
+    "height": 741,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "겉도화 개요",
+        "className": "world-label"
+      },
+      {
+        "tag": "h2",
+        "text": "사람들은 당신을 이렇게 먼저 봅니다",
+        "className": ""
+      }
+    ],
+    "buttons": [],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "face-overview-grid"
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": "dohwa-basis-card face-overview-card face-overview-card-1 element-earth"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "face-overview-card-head"
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": "dohwa-basis-card face-overview-card face-overview-card-2 element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "face-overview-card-head"
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": "dohwa-basis-card face-overview-card face-overview-card-3 element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "face-overview-card-head"
+      }
+    ],
+    "textSample": "겉도화 개요 사람들은 당신을 이렇게 먼저 봅니다 겉도화는 깊은 관계가 시작되기 전,상대가 처음 느끼는 당신의 매력입니다. 말투, 표정, 거리감, 분위기 사이에서가장 먼저 남는 인상이 여기에 잡힙니다. 未 01첫인상 월지 未(미) 말보다 존재감이 먼저 잡힙니다. 월지 토의 묵직함은 튀기보다 안정적인 인상으로 남습니다. 亥 02잔상 일지 亥(해) 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수의 여운은 지나간 장면을 나중에 다시 떠오르게 만듭니다. 癸 03오해 일간 癸(계) 편한 사람보다 강한 사람으로 보일 수 있습니다. 일간 수의 늦은 반응은 애매함처럼 읽힐 수 있습니다."
+  },
+  {
+    "id": "face_card",
+    "selector": "#share",
+    "found": true,
+    "className": "panel-card share-section reveal-card",
+    "top": 1467,
+    "height": 560,
+    "headings": [],
+    "buttons": [
+      {
+        "text": "친구에게 공유하기",
+        "action": "face-dohwa-share"
+      },
+      {
+        "text": "카드 이미지 저장하기",
+        "action": "download-card"
+      }
+    ],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "share-card",
+        "className": "share-card"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "talisman-pattern"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "face-dohwa-graphic-slot"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "share-card-content"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "share-keywords"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "share-actions"
+      }
+    ],
+    "textSample": "붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 존재감여운강렬함 친구에게 공유하기 카드 이미지 저장하기"
+  },
+  {
+    "id": "origin_summary",
+    "selector": "#free-origin-summary",
+    "found": true,
+    "className": "free-origin-summary free-origin-integrated reveal-card",
+    "top": 2045,
+    "height": 1006,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "왜 이렇게 나왔는가",
+        "className": "world-label"
+      },
+      {
+        "tag": "h2",
+        "text": "원국은 이미 한쪽을 가리키고 있습니다.",
+        "className": ""
+      }
+    ],
+    "buttons": [],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "origin-summary-body"
+      },
+      {
+        "tag": "div",
+        "id": "free-pillar-table",
+        "className": "saju-pillar-table-embed"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-table"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-column"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-column"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-column"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-earth"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-earth"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-column"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-earth"
+      }
+    ],
+    "textSample": "왜 이렇게 나왔는가 원국은 이미 한쪽을 가리키고 있습니다. 먼저 당신의 사주원국에서 월지, 일간, 일지를 봤습니다.이 세 자리는 당신의 도화가 어떻게 드러나는지를 보여줍니다. 시주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 일주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 월주 己 천간 · 토 · 편관 未 지지 · 토 · 편관 연주 戊 천간 · 토 · 정관 寅 지지 · 목 · 상관 원국표에서 먼저 잡히는 건 월지의 흙(미토)입니다. 이 자리는 사람들 사이에 들어섰을 때, 당신의 분위기가 어떤 온도로 먼저 읽히는지를 보여줍니다. 그 인상은 일지의 물(해수)를 지나며 상대 기억 속에 다시 남고, 일간의 물(계수)을 통해 밖으로 드러나는 태도가 됩니다. 그래서 이 결과는 한 글자만 보고 붙인 이름이 아닙니다. 未 월지(미) 사람들 사이"
+  },
+  {
+    "id": "origin_cycle",
+    "selector": ".origin-cycle-diagram",
+    "found": true,
+    "className": "origin-cycle-diagram",
+    "top": 2616,
+    "height": 264,
+    "headings": [],
+    "buttons": [],
+    "wrappers": [
+      {
+        "tag": "article",
+        "id": "",
+        "className": "origin-cycle-node origin-cycle-node-month element-earth"
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": "origin-cycle-node origin-cycle-node-stem element-water"
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": "origin-cycle-node origin-cycle-node-branch element-water"
+      }
+    ],
+    "textSample": "未 월지(미) 사람들 사이에서 처음 잡히는 분위기입니다. 癸 일간(계) 관계 안에서 당신이 자신을 드러내는 방식입니다. 亥 일지(해) 처음 본 인상이 상대 기억에 다시 남는 자리입니다."
+  },
+  {
+    "id": "face_explanation",
+    "selector": "#face-dohwa-explanation",
+    "found": true,
+    "className": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation",
+    "top": 3069,
+    "height": 815,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "겉도화 해석",
+        "className": "world-label"
+      },
+      {
+        "tag": "h2",
+        "text": "붉은 장미형은 장면의 중심으로 남습니다",
+        "className": ""
+      }
+    ],
+    "buttons": [
+      {
+        "text": "🔒\n        전문 보기",
+        "action": "face-dohwa-share"
+      }
+    ],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "report-body face-dohwa-explanation-body"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blurred-tail partial-blur face-dohwa-locked-tail face-dohwa-partial-tail"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blur-gate-overlay"
+      }
+    ],
+    "textSample": "겉도화 해석 붉은 장미형은 장면의 중심으로 남습니다 당신은 말을 많이 해서 기억되는 쪽이 아닙니다. 오히려 아무 말 없이 지나간 장면에서 더 선명해질 때가 있습니다.상대는 당신이 무엇을 했는지보다, 당신이 그 자리에 있었다는 사실을 더 오래 기억합니다. 좋게 말하면 존재감이고, 솔직히 말하면 상대가 편하게만 볼 수 없는 사람입니다. 상대는 당신을 “편한 사람”보다 “강하게 남는 사람”으로 기억합니다. 괜히 한 번 더 자세를 고쳐 앉게 되는 순간, 상대는 이미 당신을 장면의 중심으로 다시 읽고 있습니다. 상대는 당신이 만든 압도를 매력으로 읽기 시작합니다. 강하게 다가간 적이 없어도, 그 사람은 이미 장면의 무게 중심을 당신 쪽에 두고 있습니다. 이 아래에서는 붉은 장미형의 도화가 어떤 표정과 말투에서 더 강하게 보이는지 이어집니다. 상대가 먼"
+  },
+  {
+    "id": "professional_locked_area",
+    "selector": "#professional-locked-area",
+    "found": true,
+    "className": "professional-locked-area reveal-card",
+    "top": 5991,
+    "height": 571,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "LOCKED · 전문",
+        "className": "lock-label"
+      },
+      {
+        "tag": "h2",
+        "text": "아직 닫힌 해석이 남아 있습니다",
+        "className": ""
+      }
+    ],
+    "buttons": [
+      {
+        "text": "전문 열람하기",
+        "action": "face-dohwa-share"
+      }
+    ],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "professional-lock-grid"
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": ""
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": ""
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": ""
+      }
+    ],
+    "textSample": "LOCKED · 전문 아직 닫힌 해석이 남아 있습니다 지금 보신 건 겉도화의 앞부분입니다.전문에는 이 판정이 왜 나왔는지,그리고 어떤 지표가 강하게 잡혔는지가 이어집니다. 🔒 원국 해석 전문 월지·일간·일지가 왜 붉은 장미형으로 모이는지 🔒 진모습 해석 전문 상대가 당신을 어떤 장면에서 더 강하게 기억하는지 🔒 도화 지표 전체 존재감 / 신비감 / 부드러움 / 플러팅 / 깊이 전문 열람하기 공유로 무료 열람하거나, 공유 없이 바로 열 수 있습니다."
+  },
+  {
+    "id": "dohwa_indicators",
+    "selector": "#indicators",
+    "found": true,
+    "className": "panel-card indicator-section reveal-card",
+    "top": 3902,
+    "height": 802,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "도화 지표",
+        "className": "world-label"
+      },
+      {
+        "tag": "h2",
+        "text": "당신의 겉도화는 다섯 가지 결로 나뉩니다.",
+        "className": ""
+      }
+    ],
+    "buttons": [
+      {
+        "text": "🔒\n        전문 보기",
+        "action": "face-dohwa-share"
+      }
+    ],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blur-gated full-blur-gate blur-body-gate"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blur-content"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "dohwa-radar"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "radar-labels"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-list"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-row"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-meta"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-track"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-fill"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-row"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-meta"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-track"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-fill"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "bar-row"
+      }
+    ],
+    "textSample": "도화 지표 당신의 겉도화는 다섯 가지 결로 나뉩니다. 높다고 무조건 좋은 건 아닙니다. 강한 도화는 사람을 쉽게 끌어오지만, 가끔은 더 귀찮은 관계도 같이 끌고 옵니다. 존재감69신비감40부드러움40플러팅62깊이66 존재감69 처음 들어온 순간 남는 힘 신비감40 다 알 수 없어서 더 보게 되는 결 부드러움40 방심하게 만드는 온도 플러팅62 말과 시선 사이에 생기는 흔들림 깊이66 가볍게 시작해도 오래 남는 층 🔒 전문 보기"
+  },
+  {
+    "id": "locked_face_professional",
+    "selector": "#locked-face-dohwa-professional",
+    "found": true,
+    "className": "panel-card reveal-card face-dohwa-explanation locked-professional-section locked-face-dohwa-professional",
+    "top": 4720,
+    "height": 538,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "전문 해석",
+        "className": "world-label"
+      },
+      {
+        "tag": "h2",
+        "text": "붉은 장미형의 진모습",
+        "className": ""
+      }
+    ],
+    "buttons": [
+      {
+        "text": "🔒\n        전문 보기",
+        "action": "face-dohwa-share"
+      }
+    ],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blurred-tail partial-blur locked-professional-blur"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blur-gate-overlay"
+      }
+    ],
+    "textSample": "전문 해석 붉은 장미형의 진모습 붉은 장미형은 설명보다 존재감으로 먼저 닿는 도화입니다.당신은 말을 많이 해서 기억되는 쪽이 아닙니다. 아무 말 없이 지나간 장면에서 더 선명해질 때가 있습니다.상대는 당신이 무엇을 했는지보다, 당신이 그 자리에 있었다는 사실을 더 오래 기억합니다.붉은 장미형의 도화는 편안하게 풀어주는 매력이 아닙니다. 조금 선명하고, 조금 불편하고, 그래서 쉽게 지워지지 않습니다.상대가 당신을 편하게만 보지 못하는 이유도 여기에 있습니다.괜히 한 번 더 자세를 고쳐 앉게 되는 순간, 상대는 이미 당신을 장면의 중심으로 다시 읽고 있습니다. 상대는 당신이 만든 압도를 매력으로 읽기 시작합니다. 강하게 다가간 적이 없어도, 그 사람은 이미 장면의 무게 중심을 당신 쪽에 두고 있습니다. 이 아래에서는 붉은 장미형의 도화가 어떤 표"
+  },
+  {
+    "id": "origin_professional_blur",
+    "selector": "#free-origin-reading",
+    "found": true,
+    "className": "report-chapter reveal-card saju-origin-card",
+    "top": 5274,
+    "height": 699,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "원국 해석",
+        "className": "chapter-index"
+      },
+      {
+        "tag": "h2",
+        "text": "원국은 이미 한쪽을 가리키고 있습니다.",
+        "className": ""
+      }
+    ],
+    "buttons": [
+      {
+        "text": "🔒\n        전문 보기",
+        "action": "face-dohwa-share"
+      }
+    ],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "report-body"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blur-gated full-blur-gate locked-professional-full-gate"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "blur-content"
+      },
+      {
+        "tag": "div",
+        "id": "origin-reading-blur-pillar-table",
+        "className": "saju-pillar-table-embed saju-pillar-table-compact"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-table"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-column"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-column"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-water"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-column"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-earth"
+      },
+      {
+        "tag": "div",
+        "id": "",
+        "className": "pillar-cell element-earth"
+      }
+    ],
+    "textSample": "원국 해석 원국은 이미 한쪽을 가리키고 있습니다. 겉도화는 깊은 관계보다, 사람에게 처음 닿는 분위기에서 먼저 드러납니다. 그래서 월지를 먼저 봅니다. 월지는 당신이 어떤 계절의 결로 사람들 사이에 놓이는지 보여주거든요. 시주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 일주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 월주 己 천간 · 토 · 편관 未 지지 · 토 · 편관 연주 戊 천간 · 토 · 정관 寅 지지 · 목 · 상관 가명님의 월지는 未(미)입니다. 未(미)는 토(土)의 자리라, 감정이 바로 터지기보다 천천히 익고 오래 남는 쪽에 가깝습니다. 그래서 당신의 도화는 말로 먼저 튀어나오기보다, 분위기와 장면으로 남습니다. 그 다음은 일간과 일지입니다. 일간 癸(계)은 관계 안에서 자신을 드러내는 방식이고, 일지 亥(해)는 가"
+  },
+  {
+    "id": "final_gate",
+    "selector": "#professional-locked-area",
+    "found": true,
+    "className": "professional-locked-area reveal-card",
+    "top": 5991,
+    "height": 571,
+    "headings": [
+      {
+        "tag": "span",
+        "text": "LOCKED · 전문",
+        "className": "lock-label"
+      },
+      {
+        "tag": "h2",
+        "text": "아직 닫힌 해석이 남아 있습니다",
+        "className": ""
+      }
+    ],
+    "buttons": [
+      {
+        "text": "전문 열람하기",
+        "action": "face-dohwa-share"
+      }
+    ],
+    "wrappers": [
+      {
+        "tag": "div",
+        "id": "",
+        "className": "professional-lock-grid"
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": ""
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": ""
+      },
+      {
+        "tag": "article",
+        "id": "",
+        "className": ""
+      }
+    ],
+    "textSample": "LOCKED · 전문 아직 닫힌 해석이 남아 있습니다 지금 보신 건 겉도화의 앞부분입니다.전문에는 이 판정이 왜 나왔는지,그리고 어떤 지표가 강하게 잡혔는지가 이어집니다. 🔒 원국 해석 전문 월지·일간·일지가 왜 붉은 장미형으로 모이는지 🔒 진모습 해석 전문 상대가 당신을 어떤 장면에서 더 강하게 기억하는지 🔒 도화 지표 전체 존재감 / 신비감 / 부드러움 / 플러팅 / 깊이 전문 열람하기 공유로 무료 열람하거나, 공유 없이 바로 열 수 있습니다."
+  }
+]
