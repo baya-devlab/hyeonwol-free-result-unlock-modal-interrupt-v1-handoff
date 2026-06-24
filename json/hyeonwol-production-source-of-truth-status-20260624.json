@@ -1,0 +1,49 @@
+{
+  "taskName": "hyeonwol-production-event-readiness-go-no-go",
+  "checkedAtKst": "2026-06-24 16:20:22 KST",
+  "productionDeploymentId": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackTarget": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "deployedFrom": {
+    "path": "/tmp/hyeonwol-prod-deploy-v1-5-stable",
+    "sourcePathCopiedFrom": "/tmp/hyeonwol-free-result-interrupt-v1",
+    "sourceBranch": "feature/free-result-unlock-modal-interrupt-v1",
+    "sourceHeadCommit": "abf4784b2b93e635c8692b8d2e5dc0d997de56d7",
+    "sourceHeadCommitSubject": "Restore locked professional previews v1.4",
+    "uncommittedFilesInDeployedSource": [
+      "docs/payment-live-readiness-latest.json",
+      "src/main.js",
+      "src/styles.css"
+    ]
+  },
+  "mainProductionSourceCandidate": {
+    "path": "/Users/daawony_/Documents/오두막/dowhadoryung-hyeonwol",
+    "branch": "main",
+    "headCommit": "88ea5adc195ec293bf0346c1c714865852cf8309",
+    "headCommitSubject": "Blur speed preview in modal",
+    "remote": "https://github.com/daawony/dowhadoryung-hyeonwol.git",
+    "remoteBranch": "origin/main",
+    "pushed": true,
+    "mergedToMain": false,
+    "workingTreeClean": false,
+    "uncommittedFiles": [
+      ".gitignore",
+      "docs/payment-live-readiness-latest.json"
+    ]
+  },
+  "featureBranchSource": {
+    "path": "/tmp/hyeonwol-free-result-interrupt-v1",
+    "branch": "feature/free-result-unlock-modal-interrupt-v1",
+    "remoteBranch": "origin/feature/free-result-unlock-modal-interrupt-v1",
+    "headCommit": "abf4784b2b93e635c8692b8d2e5dc0d997de56d7",
+    "pushedHeadCommit": true,
+    "workingTreeClean": false,
+    "uncommittedFiles": [
+      "docs/payment-live-readiness-latest.json",
+      "src/main.js",
+      "src/styles.css"
+    ]
+  },
+  "sourceOfTruthStatus": "needs_commit",
+  "sourceOfTruthRisk": "medium",
+  "recommendedNextAction": "After user approves production state, commit the stable-auto-modal src/main.js and src/styles.css changes to the source repo/feature branch, push, and open or update a PR for main. Do not include generated docs/payment-live-readiness-latest.json unless intentionally desired."
+}

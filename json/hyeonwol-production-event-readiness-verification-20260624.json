@@ -1,0 +1,159 @@
+{
+  "taskName": "hyeonwol-production-event-readiness-go-no-go",
+  "checkedAtKst": "2026-06-24 16:20:22 KST",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "productionDeployment": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackTarget": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "readOnly": true,
+  "adminStatus": {
+    "adminConfigured": true,
+    "authenticated": false,
+    "supabaseConfigured": true,
+    "metaConfigured": true,
+    "adminMetricsEventsUnauthenticatedStatus": 401,
+    "notes": "Admin metrics API is correctly protected. This run did not use or expose admin credentials."
+  },
+  "vercelLogWindow": {
+    "windowLabel": "recent 1h before 2026-06-24 16:20 KST",
+    "source": "vercel logs hyeonwol.dasi.ing --since 1h",
+    "endpointCountsDeduped": {
+      "/api/t/e": {
+        "count": 17,
+        "status200": 17,
+        "latestKst": "2026-06-24 16:18:38"
+      },
+      "/api/t/s": {
+        "count": 5,
+        "status200": 5,
+        "latestKst": "2026-06-24 16:18:38"
+      },
+      "/api/t/i": {
+        "count": 1,
+        "status200": 1,
+        "latestKst": "2026-06-24 16:18:11"
+      },
+      "/api/payment/config": {
+        "count": 4,
+        "status200": 4,
+        "latestKst": "2026-06-24 16:18:38"
+      }
+    },
+    "limitations": [
+      "Vercel function logs show endpoint and status, not request body event_name.",
+      "Admin/DB row-level event-name verification was blocked by admin auth."
+    ]
+  },
+  "events": [
+    {
+      "event_name": "free_result_view",
+      "observed": "inferred_yes",
+      "source": "production UX QA + /api/t/e 200 logs + code path",
+      "latest_timestamp_kst": "2026-06-24 16:18:38 or earlier in recent endpoint window",
+      "count_recent_window": "not event-name specific; /api/t/e count=17",
+      "payload_key_fields": [
+        "free_persona",
+        "utm_source",
+        "utm_campaign",
+        "utm_content",
+        "utm_term",
+        "utm_id",
+        "canonical_campaign",
+        "canonical_adset",
+        "canonical_ad",
+        "service",
+        "page_kind"
+      ],
+      "confidence": "medium",
+      "notes": "Free result flow was reached in production; endpoint-level analytics posts returned 200. Admin event-name DB row not directly readable in this run."
+    },
+    {
+      "event_name": "unlock_choice_modal_open",
+      "observed": "inferred_yes",
+      "source": "production UX QA + /api/t/e 200 logs + code path",
+      "latest_timestamp_kst": "2026-06-24 16:18:38 or earlier in recent endpoint window",
+      "count_recent_window": "not event-name specific; /api/t/e count=17",
+      "payload_key_fields": [
+        "unlock_funnel_version",
+        "unlock_gate_model",
+        "unlock_trigger_source",
+        "unlock_trigger_section",
+        "unlock_choice_presented",
+        "unlock_available_methods"
+      ],
+      "confidence": "medium",
+      "notes": "Auto modal was confirmed in production at the dohwa indicator gate. Event-name row was not directly readable without admin auth."
+    },
+    {
+      "event_name": "unlock_choice_pay_select",
+      "observed": "inferred_yes",
+      "source": "production UX QA + /api/t/e 200 logs + code path",
+      "latest_timestamp_kst": "recent post-deploy QA window",
+      "count_recent_window": "not event-name specific",
+      "payload_key_fields": [
+        "productId",
+        "amount",
+        "unlock_method",
+        "payment_entry_route",
+        "unlock_trigger_source"
+      ],
+      "confidence": "medium_low",
+      "notes": "Unlock choice pay option and 990 modal were reached in production. Event-name row not directly readable in Admin/DB."
+    },
+    {
+      "event_name": "unlock_choice_share_select",
+      "observed": "not_verified",
+      "source": "not executed to avoid unnecessary external Kakao share trigger",
+      "latest_timestamp_kst": null,
+      "count_recent_window": null,
+      "payload_key_fields": [
+        "unlock_method",
+        "unlock_trigger_source",
+        "unlock_available_methods"
+      ],
+      "confidence": "low",
+      "notes": "Share preview open was verified, but final share-select was not clicked in this run."
+    },
+    {
+      "event_name": "unlock_granted",
+      "observed": "not_verified",
+      "source": "not executed in this read-only readiness pass",
+      "latest_timestamp_kst": null,
+      "count_recent_window": null,
+      "payload_key_fields": [
+        "unlock_method",
+        "unlock_result",
+        "unlock_trigger_source"
+      ],
+      "confidence": "low",
+      "notes": "Post-share/unlocked state was verified via QA URL, but a fresh unlock_granted event was not generated."
+    },
+    {
+      "event_name": "speed_dohwa_decode_payment_start",
+      "observed": "not_verified",
+      "source": "payment modal reached; actual payment-start button not clicked to avoid external PG flow/pending order",
+      "latest_timestamp_kst": null,
+      "count_recent_window": null,
+      "payload_key_fields": [
+        "productId",
+        "tierId",
+        "amount",
+        "currency",
+        "payment_entry_route"
+      ],
+      "confidence": "low",
+      "notes": "990 payment modal was reached. The pay button that emits payment_start was not clicked in this run."
+    },
+    {
+      "event_name": "speed_dohwa_decode_purchase_success",
+      "observed": "not_checked",
+      "source": "no real/test payment completion allowed",
+      "latest_timestamp_kst": null,
+      "count_recent_window": null,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "Purchase success can only be confirmed from natural orders or Admin/DB, neither directly available in this run."
+    }
+  ],
+  "eventVerificationStatus": "partial",
+  "overallConfidence": "medium_low"
+}

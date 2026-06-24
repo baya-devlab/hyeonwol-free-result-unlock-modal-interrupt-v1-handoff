@@ -1,0 +1,18 @@
+{
+  "taskName": "hyeonwol-production-event-readiness-go-no-go",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "productionDeployment": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackTarget": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "productionDeployed": false,
+  "readOnly": true,
+  "realPaymentExecuted": false,
+  "testPaymentExecuted": false,
+  "metaWriteExecuted": false,
+  "adLaunchExecuted": false,
+  "dbSchemaModified": false,
+  "sourceRepoModified": false,
+  "secretIncluded": false,
+  "goNoGo": "CONDITIONAL_GO",
+  "eventVerificationStatus": "partial",
+  "sourceOfTruthStatus": "needs_commit"
+}
