@@ -1,32 +1,46 @@
 {
+  "generatedFrom": "https://hyeonwol-free-result-interrupt-v1-8ugbi0cmz.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80+%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80+%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "viewport": {
+    "width": 390,
+    "height": 844,
+    "deviceScaleFactor": 2
+  },
   "sectionOrder": [
     {
       "id": "judgment",
+      "selector": "#judgment",
       "tag": "section",
       "classList": [
         "judgment-reveal"
       ],
       "top": 0,
       "height": 690,
-      "heading": "",
+      "width": 390,
+      "left": 0,
+      "headingOrChip": "",
       "buttons": [],
-      "innerWrappers": [
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "result-overlay"
-          ]
+          ],
+          "id": "",
+          "textPreview": ""
         },
         {
           "tag": "div",
           "classList": [
             "judgment-copy"
-          ]
+          ],
+          "id": "",
+          "textPreview": "가명님의 겉도화는 붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 존재감여운강렬함 당신은 설명보다 장면으로 남습니다. 다정한 말보다 잠깐의 정적이 더 오래 갑니다."
         }
       ]
     },
     {
       "id": "face-overview",
+      "selector": "#face-overview",
       "tag": "section",
       "classList": [
         "panel-card",
@@ -35,19 +49,24 @@
       ],
       "top": 708,
       "height": 741,
-      "heading": "겉도화 개요",
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "겉도화 개요",
       "buttons": [],
-      "innerWrappers": [
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "face-overview-grid"
-          ]
+          ],
+          "id": "",
+          "textPreview": "未 01첫인상 월지 未(미) 말보다 존재감이 먼저 잡힙니다. 월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다. 亥 02잔상 일지 亥(해) 상대는 대화보다 당신이 있던 장면을 기억합니다. 일지 수라, 지나간 "
         }
       ]
     },
     {
       "id": "share",
+      "selector": "#share",
       "tag": "section",
       "classList": [
         "panel-card",
@@ -56,25 +75,48 @@
       ],
       "top": 1467,
       "height": 604,
-      "heading": "당신의 겉도화",
-      "buttons": [],
-      "innerWrappers": [
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "당신의 겉도화",
+      "buttons": [
+        {
+          "text": "친구에게 공유하기",
+          "action": "face-dohwa-share",
+          "classList": [
+            "primary-button",
+            "kakao-share-button"
+          ]
+        },
+        {
+          "text": "카드 이미지 저장하기",
+          "action": "download-card",
+          "classList": [
+            "secondary-button"
+          ]
+        }
+      ],
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "share-card"
-          ]
+          ],
+          "id": "share-card",
+          "textPreview": "붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 존재감여운강렬함"
         },
         {
           "tag": "div",
           "classList": [
             "share-actions"
-          ]
+          ],
+          "id": "",
+          "textPreview": "친구에게 공유하기 카드 이미지 저장하기"
         }
       ]
     },
     {
       "id": "free-origin-summary",
+      "selector": "#free-origin-summary",
       "tag": "section",
       "classList": [
         "free-origin-summary",
@@ -83,19 +125,24 @@
       ],
       "top": 2089,
       "height": 1006,
-      "heading": "왜 이렇게 나왔는가",
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "왜 이렇게 나왔는가",
       "buttons": [],
-      "innerWrappers": [
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "origin-summary-body"
-          ]
+          ],
+          "id": "",
+          "textPreview": "먼저 당신의 사주원국에서 월지, 일간, 일지를 봤습니다.이 세 자리는 당신의 도화가 어떻게 드러나는지를 보여줍니다. 시주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 일주 癸 천간 · 수 · 비견 亥 지지 · "
         }
       ]
     },
     {
       "id": "face-dohwa-explanation",
+      "selector": "#face-dohwa-explanation",
       "tag": "section",
       "classList": [
         "panel-card",
@@ -105,20 +152,25 @@
       ],
       "top": 3113,
       "height": 463,
-      "heading": "겉도화 해석",
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "겉도화 해석",
       "buttons": [],
-      "innerWrappers": [
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "report-body",
             "face-dohwa-explanation-body"
-          ]
+          ],
+          "id": "",
+          "textPreview": "당신은 말을 많이 해서 기억되는 쪽이 아닙니다. 오히려 아무 말 없이 지나간 장면에서 더 선명해질 때가 있습니다.상대는 당신이 무엇을 했는지보다, 당신이 그 자리에 있었다는 사실을 더 오래 기억합니다.좋게 말하면 존"
         }
       ]
     },
     {
       "id": "professional-locked-area",
+      "selector": "#professional-locked-area",
       "tag": "section",
       "classList": [
         "professional-locked-area",
@@ -126,19 +178,34 @@
       ],
       "top": 3594,
       "height": 545,
-      "heading": "LOCKED · 전문",
-      "buttons": [],
-      "innerWrappers": [
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "LOCKED · 전문",
+      "buttons": [
+        {
+          "text": "전문 열람하기",
+          "action": "face-dohwa-share",
+          "classList": [
+            "primary-button",
+            "unlock-primary-button",
+            "breathing"
+          ]
+        }
+      ],
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "professional-lock-grid"
-          ]
+          ],
+          "id": "",
+          "textPreview": "🔒 원국 해석 전문 월지·일간·일지가 왜 붉은 장미형으로 모이는지 🔒 겉도화 해석 전문 상대가 당신을 어떤 장면에서 더 강하게 기억하는지 🔒 도화 지표 전체 존재감 / 신비감 / 부드러움 / 플러팅 / 깊이"
         }
       ]
     },
     {
       "id": "indicators",
+      "selector": "#indicators",
       "tag": "section",
       "classList": [
         "panel-card",
@@ -147,21 +214,36 @@
       ],
       "top": 4159,
       "height": 802,
-      "heading": "도화 지표",
-      "buttons": [],
-      "innerWrappers": [
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "도화 지표",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "classList": [
+            "primary-button",
+            "blur-share-chip",
+            "unlock-chip-button"
+          ]
+        }
+      ],
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "blur-gated",
             "full-blur-gate",
             "blur-body-gate"
-          ]
+          ],
+          "id": "",
+          "textPreview": "높다고 무조건 좋은 건 아닙니다. 강한 도화는 사람을 쉽게 끌어오지만, 가끔은 더 귀찮은 관계도 같이 끌고 옵니다. 존재감69신비감40부드러움40플러팅62깊이66 존재감69 처음 들어온 순간 남는 힘 신비감40 다 "
         }
       ]
     },
     {
       "id": "locked-face-dohwa-professional",
+      "selector": "#locked-face-dohwa-professional",
       "tag": "section",
       "classList": [
         "panel-card",
@@ -172,21 +254,36 @@
       ],
       "top": 4977,
       "height": 567,
-      "heading": "겉도화 해석 전문",
-      "buttons": [],
-      "innerWrappers": [
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "겉도화 해석 전문",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "classList": [
+            "primary-button",
+            "blur-share-chip",
+            "unlock-chip-button"
+          ]
+        }
+      ],
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "blurred-tail",
             "partial-blur",
             "locked-professional-blur"
-          ]
+          ],
+          "id": "",
+          "textPreview": "붉은 장미형은 설명보다 존재감으로 먼저 닿는 도화입니다.당신은 말을 많이 해서 기억되는 쪽이 아닙니다. 아무 말 없이 지나간 장면에서 더 선명해질 때가 있습니다.상대는 당신이 무엇을 했는지보다, 당신이 그 자리에 있"
         }
       ]
     },
     {
       "id": "free-origin-reading",
+      "selector": "#free-origin-reading",
       "tag": "article",
       "classList": [
         "report-chapter",
@@ -195,19 +292,34 @@
       ],
       "top": 5560,
       "height": 702,
-      "heading": "원국은 이미 한쪽을 가리키고 있습니다.",
-      "buttons": [],
-      "innerWrappers": [
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "원국은 이미 한쪽을 가리키고 있습니다.",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "classList": [
+            "primary-button",
+            "blur-share-chip",
+            "unlock-chip-button"
+          ]
+        }
+      ],
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "report-body"
-          ]
+          ],
+          "id": "",
+          "textPreview": "겉도화는 깊은 관계보다, 사람에게 처음 닿는 분위기에서 먼저 드러납니다. 그래서 월지를 먼저 봅니다. 월지는 당신이 어떤 계절의 결로 사람들 사이에 놓이는지 보여주거든요. 가명님의 월지는 未(미)입니다. 未(미)는 "
         }
       ]
     },
     {
       "id": "share-unlock",
+      "selector": "#share-unlock",
       "tag": "section",
       "classList": [
         "share-unlock-gate",
@@ -215,81 +327,369 @@
       ],
       "top": 6284,
       "height": 445,
-      "heading": "LOCKED · 전문",
-      "buttons": [],
-      "innerWrappers": [
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "LOCKED · 전문",
+      "buttons": [
+        {
+          "text": "전문 열람하기",
+          "action": "face-dohwa-share",
+          "classList": [
+            "primary-button",
+            "unlock-primary-button",
+            "breathing"
+          ]
+        }
+      ],
+      "directWrappers": [
         {
           "tag": "div",
           "classList": [
             "hidden-feature-list",
             "compact-unlock-list",
             "check-list"
-          ]
+          ],
+          "id": "",
+          "textPreview": "전문에서 열리는 항목 원국 해석 전문 겉도화 해석 전문 도화 지표 전체"
         },
         {
           "tag": "div",
           "classList": [
             "share-microcopy",
             "warning-copy"
-          ]
+          ],
+          "id": "",
+          "textPreview": "공유 카드에는 생년월일과 고민 내용이 들어가지 않습니다. 공유가 부담스럽다면, 990원으로 바로 열 수도 있습니다."
         }
       ]
     }
   ],
-  "overviewCards": [
+  "triangleOriginDiagram": {
+    "selector": ".origin-cycle-diagram",
+    "classList": [
+      "origin-cycle-diagram"
+    ],
+    "top": 2487,
+    "height": 284,
+    "width": 320,
+    "left": 35,
+    "svgPaths": [
+      {
+        "d": "M 216 106 C 238 115 252 126 262 145",
+        "markerEnd": null,
+        "classList": [
+          "origin-cycle-path",
+          "origin-cycle-path-1"
+        ]
+      },
+      {
+        "d": "M 215 216 C 180 233 138 233 105 216",
+        "markerEnd": null,
+        "classList": [
+          "origin-cycle-path",
+          "origin-cycle-path-2"
+        ]
+      },
+      {
+        "d": "M 58 145 C 68 126 82 115 104 106",
+        "markerEnd": null,
+        "classList": [
+          "origin-cycle-path",
+          "origin-cycle-path-3"
+        ]
+      }
+    ],
+    "nodes": [
+      {
+        "classList": [
+          "origin-cycle-node",
+          "origin-cycle-node-month",
+          "element-earth"
+        ],
+        "top": 2504,
+        "height": 126,
+        "width": 124,
+        "left": 133,
+        "label": "월지",
+        "hanja": "未",
+        "title": "未(미)",
+        "body": "사람들 사이에서 처음 잡히는 분위기입니다.",
+        "style": "--basis-color:#d8b65f; --basis-soft:rgba(132, 86, 28, 0.34); --basis-wash:rgba(216, 182, 95, 0.13);"
+      },
+      {
+        "classList": [
+          "origin-cycle-node",
+          "origin-cycle-node-stem",
+          "element-water"
+        ],
+        "top": 2614,
+        "height": 140,
+        "width": 124,
+        "left": 220,
+        "label": "일간",
+        "hanja": "癸",
+        "title": "癸(계)",
+        "body": "관계 안에서 당신이 자신을 드러내는 방식입니다.",
+        "style": "--basis-color:#86b9ff; --basis-soft:rgba(54, 105, 172, 0.3); --basis-wash:rgba(134, 185, 255, 0.12);"
+      },
+      {
+        "classList": [
+          "origin-cycle-node",
+          "origin-cycle-node-branch",
+          "element-water"
+        ],
+        "top": 2614,
+        "height": 140,
+        "width": 124,
+        "left": 46,
+        "label": "일지",
+        "hanja": "亥",
+        "title": "亥(해)",
+        "body": "처음 본 인상이 상대 기억에 다시 남는 자리입니다.",
+        "style": "--basis-color:#86b9ff; --basis-soft:rgba(54, 105, 172, 0.3); --basis-wash:rgba(134, 185, 255, 0.12);"
+      }
+    ]
+  },
+  "faceOverviewCards": [
     {
-      "header": "01 첫인상 월지 未(미)",
-      "hanja": "未",
-      "height": 132,
-      "mainFontSize": "17px",
-      "subFontSize": "12px",
-      "classes": [
+      "selector": ".dohwa-basis-card.face-overview-card.face-overview-card-1.element-earth",
+      "classList": [
         "dohwa-basis-card",
         "face-overview-card",
         "face-overview-card-1",
         "element-earth"
-      ]
+      ],
+      "top": 975,
+      "height": 132,
+      "width": 312,
+      "left": 39,
+      "header": "01첫인상 월지 未(미)",
+      "titleChip": "01첫인상",
+      "basisSubtitle": "월지 未(미)",
+      "hanja": "未",
+      "mainCopy": "말보다 존재감이 먼저 잡힙니다.",
+      "subCopy": "월지 토라, 튀기보다 묵직하고 안정적인 인상으로 남습니다.",
+      "mainFontSize": "17px",
+      "subFontSize": "12px"
     },
     {
-      "header": "02 잔상 일지 亥(해)",
-      "hanja": "亥",
-      "height": 148,
-      "mainFontSize": "17px",
-      "subFontSize": "12px",
-      "classes": [
+      "selector": ".dohwa-basis-card.face-overview-card.face-overview-card-2.element-water",
+      "classList": [
         "dohwa-basis-card",
         "face-overview-card",
         "face-overview-card-2",
         "element-water"
-      ]
+      ],
+      "top": 1119,
+      "height": 148,
+      "width": 312,
+      "left": 39,
+      "header": "02잔상 일지 亥(해)",
+      "titleChip": "02잔상",
+      "basisSubtitle": "일지 亥(해)",
+      "hanja": "亥",
+      "mainCopy": "상대는 대화보다 당신이 있던 장면을 기억합니다.",
+      "subCopy": "일지 수라, 지나간 장면이 나중에 다시 떠오릅니다.",
+      "mainFontSize": "17px",
+      "subFontSize": "12px"
     },
     {
-      "header": "03 오해 일간 癸(계)",
-      "hanja": "癸",
-      "height": 148,
-      "mainFontSize": "17px",
-      "subFontSize": "12px",
-      "classes": [
+      "selector": ".dohwa-basis-card.face-overview-card.face-overview-card-3.element-water",
+      "classList": [
         "dohwa-basis-card",
         "face-overview-card",
         "face-overview-card-3",
         "element-water"
-      ]
+      ],
+      "top": 1280,
+      "height": 148,
+      "width": 312,
+      "left": 39,
+      "header": "03오해 일간 癸(계)",
+      "titleChip": "03오해",
+      "basisSubtitle": "일간 癸(계)",
+      "hanja": "癸",
+      "mainCopy": "편한 사람보다 강한 사람으로 보일 수 있습니다.",
+      "subCopy": "일간 수의 늦은 반응이 애매함처럼 읽힐 수 있습니다.",
+      "mainFontSize": "17px",
+      "subFontSize": "12px"
     }
   ],
-  "originPersonalization": {
-    "inOriginCount": 1,
-    "inFaceExplanationCount": 0,
-    "text": "원국으로 보면, 이 결은 월지에서 먼저 잡힙니다. 바로 튀기보다 안정감으로 남습니다. 처음엔 잔잔해도 뒤늦게 무게가 생깁니다. 일간은 이 매력이 밖으로 드러나는 방식을 보여줍니다. 한 박자 늦은 반응과 여운으로 드러납니다. 바로 보이지 않아도 시간이 지나 다시 올라옵니다. 일지는 상대 기억에 남는 방식을 보여줍니다. 상대는 시간이 지난 뒤에야 당신의 장면을 다시 떠올립니다. 늦게 돌아오는 여운이 있습니다."
-  },
-  "lockedPreviewPresence": {
-    "indicators": true,
-    "faceProfessional": true,
-    "originProfessional": true
-  },
-  "shareSection": {
-    "hasWorldLabel": true,
+  "shareCardSection": {
+    "selector": "#share",
+    "headingChip": "당신의 겉도화",
     "directH2Count": 0,
-    "directMentorCount": 0
+    "directMentorTextCount": 0,
+    "card": {
+      "imageFrameClassList": [],
+      "personaTitle": "붉은 장미형",
+      "personaDescription": "스쳐 가도 이상하게 오래 기억에 남는 사람",
+      "keywords": [
+        "존재감",
+        "여운",
+        "강렬함"
+      ]
+    },
+    "buttons": [
+      {
+        "text": "친구에게 공유하기",
+        "action": "face-dohwa-share",
+        "classList": [
+          "primary-button",
+          "kakao-share-button"
+        ]
+      },
+      {
+        "text": "카드 이미지 저장하기",
+        "action": "download-card",
+        "classList": [
+          "secondary-button"
+        ]
+      }
+    ]
+  },
+  "faceDohwaExplanationSection": {
+    "selector": ".face-dohwa-public-explanation",
+    "chip": "겉도화 해석",
+    "title": "붉은 장미형은 장면의 중심으로 남습니다",
+    "paragraphCount": 4,
+    "hasOriginPersonalizationBlock": false,
+    "summary": "상대는 당신을 “편한 사람”보다 “강하게 남는 사람”으로 기억합니다."
+  },
+  "originPersonalizationMovedBlock": {
+    "selector": "#free-origin-summary .origin-personalization-summary",
+    "exists": true,
+    "text": "원국으로 보면, 이 결은 월지에서 먼저 잡힙니다.바로 튀기보다 안정감으로 남습니다. 처음엔 잔잔해도 뒤늦게 무게가 생깁니다. 일간은 이 매력이 밖으로 드러나는 방식을 보여줍니다.한 박자 늦은 반응과 여운으로 드러납니다. 바로 보이지 않아도 시간이 지나 다시 올라옵니다. 일지는 상대 기억에 남는 방식을 보여줍니다.상대는 시간이 지난 뒤에야 당신의 장면을 다시 떠올립니다. 늦게 돌아오는 여운이 있습니다.",
+    "paragraphs": [
+      "원국으로 보면, 이 결은 월지에서 먼저 잡힙니다.바로 튀기보다 안정감으로 남습니다. 처음엔 잔잔해도 뒤늦게 무게가 생깁니다.",
+      "일간은 이 매력이 밖으로 드러나는 방식을 보여줍니다.한 박자 늦은 반응과 여운으로 드러납니다. 바로 보이지 않아도 시간이 지나 다시 올라옵니다.",
+      "일지는 상대 기억에 남는 방식을 보여줍니다.상대는 시간이 지난 뒤에야 당신의 장면을 다시 떠올립니다. 늦게 돌아오는 여운이 있습니다."
+    ]
+  },
+  "lockedPreviewSections": [
+    {
+      "selector": "#indicators",
+      "id": "indicators",
+      "classList": [
+        "panel-card",
+        "indicator-section",
+        "reveal-card"
+      ],
+      "top": 4159,
+      "height": 802,
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "도화 지표",
+      "overlayText": "🔒 전문 보기",
+      "hasBlurContent": true
+    },
+    {
+      "selector": "#locked-face-dohwa-professional",
+      "id": "locked-face-dohwa-professional",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-dohwa-explanation",
+        "locked-professional-section",
+        "locked-face-dohwa-professional"
+      ],
+      "top": 4977,
+      "height": 567,
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "겉도화 해석 전문",
+      "overlayText": "🔒 전문 보기",
+      "hasBlurContent": true
+    },
+    {
+      "selector": "#free-origin-reading",
+      "id": "free-origin-reading",
+      "classList": [
+        "report-chapter",
+        "reveal-card",
+        "saju-origin-card"
+      ],
+      "top": 5560,
+      "height": 702,
+      "width": 354,
+      "left": 18,
+      "headingOrChip": "원국은 이미 한쪽을 가리키고 있습니다.",
+      "overlayText": "🔒 전문 보기",
+      "hasBlurContent": true
+    }
+  ],
+  "unlockChoiceModalStructure": {
+    "selector": ".unlock-choice-modal",
+    "classList": [
+      "modal-sheet",
+      "share-preview-modal",
+      "unlock-choice-modal"
+    ],
+    "top": 3655,
+    "height": 608,
+    "width": 362,
+    "left": 14,
+    "title": "여기서부터는 전문 해석입니다",
+    "introParagraphs": [
+      "지금까지는 사람들이 처음 보는 당신의 도화를 읽었습니다.",
+      "아래부터는 원국 해석 전문,겉도화 해석 전문,도화 지표가 이어집니다.",
+      "계속 읽을 방법을 선택해주세요."
+    ],
+    "optionCards": [
+      {
+        "classList": [
+          "unlock-choice-card",
+          "share-choice-card"
+        ],
+        "title": "카톡 공유하고 무료로 열기",
+        "bodyPreview": "무료 카톡 공유하고 무료로 열기 생년월일과 고민 내용은 공유되지 않습니다. 나의 겉도화: 붉은 장미형 스쳐 가도 이상하게 오래 기억에 남는 사람 내 도화 유형 확인하기 카톡 공유하고 무료로 열기",
+        "buttons": [
+          {
+            "text": "카톡 공유하고 무료로 열기",
+            "action": "confirm-face-dohwa-share",
+            "classList": [
+              "primary-button",
+              "kakao-share-button"
+            ]
+          }
+        ]
+      },
+      {
+        "classList": [
+          "unlock-choice-card",
+          "pay-choice-card"
+        ],
+        "title": "공유 없이 990원으로 바로 열기",
+        "bodyPreview": "바로 열람 공유 없이 990원으로 바로 열기 조용히 전문만 열람할 수 있습니다. 공유 없이 990원으로 바로 열기",
+        "buttons": [
+          {
+            "text": "공유 없이 990원으로 바로 열기",
+            "action": "unlock-choice-pay",
+            "classList": [
+              "primary-button",
+              "unlock-primary-button",
+              "unlock-pay-button"
+            ]
+          }
+        ]
+      }
+    ],
+    "closeButtons": [
+      {
+        "text": "×",
+        "action": "close-share-preview",
+        "classList": [
+          "close-button"
+        ]
+      },
+      {
+        "text": "지금은 닫기",
+        "action": "close-share-preview",
+        "classList": [
+          "text-button",
+          "unlock-choice-later"
+        ]
+      }
+    ]
   }
 }
