@@ -1,0 +1,66 @@
+{
+  "taskName": "hyeonwol-admin-event-row-only-funnel-summary",
+  "checkedAtKst": "2026-06-24 17:00:56 KST",
+  "productionDeployment": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackTarget": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "window": "2026-06-24 KST current-day partial plus recent row window",
+  "qaIncluded": "recent core rows have qa flags false; small sample",
+  "dataSufficiency": "sufficient for event readiness, insufficient for performance judgment",
+  "steps": [
+    {
+      "step": "free_result_view",
+      "count_today_admin_funnel": 2,
+      "rate_from_previous": null,
+      "rate_from_free_result": 1
+    },
+    {
+      "step": "unlock_choice_modal_open",
+      "count_today_admin_funnel": 1,
+      "rate_from_previous": 0.5,
+      "rate_from_free_result": 0.5
+    },
+    {
+      "step": "unlock_choice_share_select",
+      "count_today_admin_funnel": 1,
+      "rate_from_previous": 1.0,
+      "rate_from_free_result": 0.5
+    },
+    {
+      "step": "unlock_choice_pay_select",
+      "count_today_admin_funnel": 0,
+      "rate_from_previous": 0.0,
+      "rate_from_free_result": 0.0
+    },
+    {
+      "step": "any_select",
+      "count_today_admin_funnel": 1,
+      "rate_from_previous": null,
+      "rate_from_free_result": 0.5
+    },
+    {
+      "step": "unlock_granted",
+      "count_today_admin_funnel": 1,
+      "rate_from_previous": 1.0,
+      "rate_from_free_result": 0.5
+    },
+    {
+      "step": "speed_dohwa_decode_payment_start",
+      "count_today_admin_funnel": 1,
+      "rate_from_previous": 1.0,
+      "rate_from_free_result": 0.5
+    },
+    {
+      "step": "speed_dohwa_decode_purchase_success",
+      "count_today_admin_funnel": 0,
+      "rate_from_previous": 0.0,
+      "rate_from_free_result": 0.0
+    }
+  ],
+  "keyMetrics": {
+    "free_result_to_any_select": 0.5,
+    "free_result_to_unlock_granted": 0.5,
+    "free_result_to_payment_start": 0.5,
+    "modal_open_to_share_select": 1.0,
+    "modal_open_to_pay_select": 0.0
+  }
+}
