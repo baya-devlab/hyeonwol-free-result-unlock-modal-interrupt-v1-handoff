@@ -1,0 +1,530 @@
+{
+  "previewUrl": "https://hyeonwol-free-result-interrupt-v1-31v7rip0c.vercel.app",
+  "mobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-31v7rip0c.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80%20%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80%20%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "capturedAt": "2026-06-24T03:47:17.753Z",
+  "sections": [
+    {
+      "index": 0,
+      "tag": "section",
+      "id": "judgment",
+      "selector": "#judgment",
+      "classList": [
+        "judgment-reveal"
+      ],
+      "top": 0,
+      "height": 690,
+      "heading": "가명님의 겉도화는",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 1,
+      "tag": "section",
+      "id": "face-overview",
+      "selector": "#face-overview",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-overview-section"
+      ],
+      "top": 708,
+      "height": 741,
+      "heading": "겉도화 개요",
+      "chip": "겉도화 개요",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": true,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 2,
+      "tag": "article",
+      "id": "",
+      "selector": "article.dohwa-basis-card.face-overview-card.face-overview-card-1.element-earth",
+      "classList": [
+        "dohwa-basis-card",
+        "face-overview-card",
+        "face-overview-card-1",
+        "element-earth"
+      ],
+      "top": 975,
+      "height": 132,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 3,
+      "tag": "article",
+      "id": "",
+      "selector": "article.dohwa-basis-card.face-overview-card.face-overview-card-2.element-water",
+      "classList": [
+        "dohwa-basis-card",
+        "face-overview-card",
+        "face-overview-card-2",
+        "element-water"
+      ],
+      "top": 1119,
+      "height": 148,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 4,
+      "tag": "article",
+      "id": "",
+      "selector": "article.dohwa-basis-card.face-overview-card.face-overview-card-3.element-water",
+      "classList": [
+        "dohwa-basis-card",
+        "face-overview-card",
+        "face-overview-card-3",
+        "element-water"
+      ],
+      "top": 1280,
+      "height": 148,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 5,
+      "tag": "section",
+      "id": "share",
+      "selector": "#share",
+      "classList": [
+        "panel-card",
+        "share-section",
+        "reveal-card"
+      ],
+      "top": 1467,
+      "height": 560,
+      "heading": "",
+      "chip": "",
+      "buttons": [
+        {
+          "text": "친구에게 공유하기",
+          "action": "face-dohwa-share",
+          "source": "share_card"
+        },
+        {
+          "text": "카드 이미지 저장하기",
+          "action": "download-card",
+          "source": ""
+        }
+      ],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 6,
+      "tag": "section",
+      "id": "free-origin-summary",
+      "selector": "#free-origin-summary",
+      "classList": [
+        "free-origin-summary",
+        "free-origin-integrated",
+        "reveal-card"
+      ],
+      "top": 2045,
+      "height": 1031,
+      "heading": "왜 이렇게 나왔는가",
+      "chip": "왜 이렇게 나왔는가",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "selector": ".origin-summary-body",
+          "classList": [
+            "origin-summary-body"
+          ]
+        },
+        {
+          "selector": ".origin-personalization-block.origin-personalization-summary",
+          "classList": [
+            "origin-personalization-block",
+            "origin-personalization-summary"
+          ]
+        },
+        {
+          "selector": ".origin-cycle-diagram",
+          "classList": [
+            "origin-cycle-diagram"
+          ]
+        }
+      ],
+      "notes": {
+        "hasTriangle": true,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 7,
+      "tag": "article",
+      "id": "",
+      "selector": "article.origin-cycle-node.origin-cycle-node-month.element-earth",
+      "classList": [
+        "origin-cycle-node",
+        "origin-cycle-node-month",
+        "element-earth"
+      ],
+      "top": 2664,
+      "height": 102,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 8,
+      "tag": "article",
+      "id": "",
+      "selector": "article.origin-cycle-node.origin-cycle-node-stem.element-water",
+      "classList": [
+        "origin-cycle-node",
+        "origin-cycle-node-stem",
+        "element-water"
+      ],
+      "top": 2782,
+      "height": 116,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 9,
+      "tag": "article",
+      "id": "",
+      "selector": "article.origin-cycle-node.origin-cycle-node-branch.element-water",
+      "classList": [
+        "origin-cycle-node",
+        "origin-cycle-node-branch",
+        "element-water"
+      ],
+      "top": 2782,
+      "height": 116,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 10,
+      "tag": "section",
+      "id": "face-dohwa-explanation",
+      "selector": "#face-dohwa-explanation",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-dohwa-explanation",
+        "face-dohwa-public-explanation"
+      ],
+      "top": 3094,
+      "height": 724,
+      "heading": "겉도화 해석",
+      "chip": "겉도화 해석",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "face_dohwa_explanation_partial_blur_gate"
+        }
+      ],
+      "innerWrappers": [
+        {
+          "selector": ".report-body.face-dohwa-explanation-body",
+          "classList": [
+            "report-body",
+            "face-dohwa-explanation-body"
+          ]
+        },
+        {
+          "selector": ".blurred-tail.partial-blur.face-dohwa-locked-tail.face-dohwa-partial-tail",
+          "classList": [
+            "blurred-tail",
+            "partial-blur",
+            "face-dohwa-locked-tail",
+            "face-dohwa-partial-tail"
+          ]
+        }
+      ],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": true,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 11,
+      "tag": "section",
+      "id": "indicators",
+      "selector": "#indicators",
+      "classList": [
+        "panel-card",
+        "indicator-section",
+        "reveal-card"
+      ],
+      "top": 3835,
+      "height": 802,
+      "heading": "도화 지표",
+      "chip": "도화 지표",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "dohwa_indicator_blur_gate"
+        }
+      ],
+      "innerWrappers": [
+        {
+          "selector": ".blur-gated.full-blur-gate.blur-body-gate",
+          "classList": [
+            "blur-gated",
+            "full-blur-gate",
+            "blur-body-gate"
+          ]
+        }
+      ],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 12,
+      "tag": "section",
+      "id": "locked-face-dohwa-professional",
+      "selector": "#locked-face-dohwa-professional",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-dohwa-explanation",
+        "locked-professional-section",
+        "locked-face-dohwa-professional"
+      ],
+      "top": 4654,
+      "height": 567,
+      "heading": "겉도화 해석 전문",
+      "chip": "겉도화 해석 전문",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "locked_face_dohwa_professional_gate"
+        }
+      ],
+      "innerWrappers": [
+        {
+          "selector": ".blurred-tail.partial-blur.locked-professional-blur",
+          "classList": [
+            "blurred-tail",
+            "partial-blur",
+            "locked-professional-blur"
+          ]
+        }
+      ],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 13,
+      "tag": "article",
+      "id": "free-origin-reading",
+      "selector": "#free-origin-reading",
+      "classList": [
+        "report-chapter",
+        "reveal-card",
+        "saju-origin-card"
+      ],
+      "top": 5237,
+      "height": 702,
+      "heading": "원국 해석",
+      "chip": "원국 해석",
+      "buttons": [
+        {
+          "text": "🔒 전문 보기",
+          "action": "face-dohwa-share",
+          "source": "origin_reading_blur_gate"
+        }
+      ],
+      "innerWrappers": [
+        {
+          "selector": ".report-body",
+          "classList": [
+            "report-body"
+          ]
+        },
+        {
+          "selector": ".blur-gated.full-blur-gate.locked-professional-full-gate",
+          "classList": [
+            "blur-gated",
+            "full-blur-gate",
+            "locked-professional-full-gate"
+          ]
+        }
+      ],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 14,
+      "tag": "section",
+      "id": "professional-locked-area",
+      "selector": "#professional-locked-area",
+      "classList": [
+        "professional-locked-area",
+        "reveal-card"
+      ],
+      "top": 5956,
+      "height": 545,
+      "heading": "LOCKED · 전문",
+      "chip": "LOCKED · 전문",
+      "buttons": [
+        {
+          "text": "전문 열람하기",
+          "action": "face-dohwa-share",
+          "source": "professional_locked_area"
+        }
+      ],
+      "innerWrappers": [
+        {
+          "selector": ".professional-lock-grid",
+          "classList": [
+            "professional-lock-grid"
+          ]
+        }
+      ],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": true
+      }
+    },
+    {
+      "index": 15,
+      "tag": "article",
+      "id": "",
+      "selector": "article",
+      "classList": [],
+      "top": 6149,
+      "height": 75,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 16,
+      "tag": "article",
+      "id": "",
+      "selector": "article",
+      "classList": [],
+      "top": 6233,
+      "height": 75,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    },
+    {
+      "index": 17,
+      "tag": "article",
+      "id": "",
+      "selector": "article",
+      "classList": [],
+      "top": 6317,
+      "height": 75,
+      "heading": "",
+      "chip": "",
+      "buttons": [],
+      "innerWrappers": [],
+      "notes": {
+        "hasTriangle": false,
+        "hasOverviewCards": false,
+        "hasPartialBlurTail": false,
+        "hasAutoTrigger": false
+      }
+    }
+  ]
+}
