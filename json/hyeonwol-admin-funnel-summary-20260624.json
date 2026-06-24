@@ -1,0 +1,58 @@
+{
+  "taskName": "hyeonwol-admin-event-row-funnel-summary",
+  "window": "deploy_since_and_recent_24h_requested",
+  "status": "insufficient_data",
+  "reason": "Admin row-level read blocked by missing admin credential in this run",
+  "qaTrafficIncluded": "unknown",
+  "steps": [
+    {
+      "event_name": "free_result_view",
+      "count": 0,
+      "rate_from_previous": 1,
+      "rate_from_free_result": 1,
+      "status": "blocked_admin_read"
+    },
+    {
+      "event_name": "unlock_choice_modal_open",
+      "count": 0,
+      "rate_from_previous": 0,
+      "rate_from_free_result": 0,
+      "status": "blocked_admin_read"
+    },
+    {
+      "event_name": "unlock_choice_share_select",
+      "count": 0,
+      "rate_from_previous": 0,
+      "rate_from_free_result": 0,
+      "status": "blocked_admin_read"
+    },
+    {
+      "event_name": "unlock_choice_pay_select",
+      "count": 0,
+      "rate_from_previous": 0,
+      "rate_from_free_result": 0,
+      "status": "blocked_admin_read"
+    },
+    {
+      "event_name": "unlock_granted",
+      "count": 0,
+      "rate_from_previous": 0,
+      "rate_from_free_result": 0,
+      "status": "blocked_admin_read"
+    },
+    {
+      "event_name": "speed_dohwa_decode_payment_start",
+      "count": 0,
+      "rate_from_previous": 0,
+      "rate_from_free_result": 0,
+      "status": "blocked_admin_read"
+    },
+    {
+      "event_name": "speed_dohwa_decode_purchase_success",
+      "count": 0,
+      "rate_from_previous": 0,
+      "rate_from_free_result": 0,
+      "status": "blocked_admin_read"
+    }
+  ]
+}

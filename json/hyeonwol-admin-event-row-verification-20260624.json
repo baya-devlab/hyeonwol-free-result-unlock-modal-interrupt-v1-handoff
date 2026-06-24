@@ -1,0 +1,103 @@
+{
+  "taskName": "hyeonwol-admin-event-row-and-source-of-truth",
+  "checkedAtKst": "2026-06-24 16:40 KST",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "productionDeployment": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackTarget": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "adminRead": {
+    "adminConfigured": true,
+    "authenticated": false,
+    "supabaseConfigured": true,
+    "metaConfigured": true,
+    "rowLevelRead": "blocked_auth_required",
+    "blocker": "admin credential unavailable in this run"
+  },
+  "events": [
+    {
+      "event_name": "free_result_view",
+      "observed": "no",
+      "source": "admin_blocked",
+      "latest_timestamp_kst": null,
+      "count_since_deploy": 0,
+      "count_recent_1h": 0,
+      "count_recent_24h": 0,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "endpoint 200 observed, row-level read not completed"
+    },
+    {
+      "event_name": "unlock_choice_modal_open",
+      "observed": "no",
+      "source": "admin_blocked",
+      "latest_timestamp_kst": null,
+      "count_since_deploy": 0,
+      "count_recent_1h": 0,
+      "count_recent_24h": 0,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "critical row still needs Admin confirmation"
+    },
+    {
+      "event_name": "unlock_choice_share_select",
+      "observed": "no",
+      "source": "admin_blocked",
+      "latest_timestamp_kst": null,
+      "count_since_deploy": 0,
+      "count_recent_1h": 0,
+      "count_recent_24h": 0,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "not manually generated"
+    },
+    {
+      "event_name": "unlock_choice_pay_select",
+      "observed": "no",
+      "source": "admin_blocked",
+      "latest_timestamp_kst": null,
+      "count_since_deploy": 0,
+      "count_recent_1h": 0,
+      "count_recent_24h": 0,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "critical row still needs Admin confirmation"
+    },
+    {
+      "event_name": "unlock_granted",
+      "observed": "no",
+      "source": "admin_blocked",
+      "latest_timestamp_kst": null,
+      "count_since_deploy": 0,
+      "count_recent_1h": 0,
+      "count_recent_24h": 0,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "not manually generated"
+    },
+    {
+      "event_name": "speed_dohwa_decode_payment_start",
+      "observed": "no",
+      "source": "admin_blocked",
+      "latest_timestamp_kst": null,
+      "count_since_deploy": 0,
+      "count_recent_1h": 0,
+      "count_recent_24h": 0,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "real/test payment start action avoided"
+    },
+    {
+      "event_name": "speed_dohwa_decode_purchase_success",
+      "observed": "no",
+      "source": "not_checked",
+      "latest_timestamp_kst": null,
+      "count_since_deploy": 0,
+      "count_recent_1h": 0,
+      "count_recent_24h": 0,
+      "payload_key_fields": [],
+      "confidence": "low",
+      "notes": "real/test payment forbidden"
+    }
+  ],
+  "eventVerificationStatus": "partial",
+  "goNoGo": "CONDITIONAL_GO"
+}

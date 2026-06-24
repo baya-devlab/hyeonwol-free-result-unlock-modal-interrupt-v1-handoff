@@ -1,0 +1,22 @@
+{
+  "taskName": "hyeonwol-source-of-truth-status",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "productionDeployment": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackTarget": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "current_local_branch": "feature/free-result-unlock-modal-interrupt-v1",
+  "current_commit": "7c059ee",
+  "remote_branch": "origin/feature/free-result-unlock-modal-interrupt-v1",
+  "pushed": true,
+  "draft_pr_url": "https://github.com/baya-devlab/dowhadoryung-hyeonwol/pull/2",
+  "merged_to_main": false,
+  "working_tree_clean": false,
+  "local_dirty_files_excluded": [
+    "docs/payment-live-readiness-latest.json"
+  ],
+  "committed_files": [
+    "src/main.js",
+    "src/styles.css"
+  ],
+  "source_of_truth_status": "needs_merge",
+  "recommended_next_action": "Review draft PR and merge only after human approval. No production redeploy was done in this step."
+}

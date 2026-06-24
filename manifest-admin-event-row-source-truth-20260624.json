@@ -1,0 +1,20 @@
+{
+  "taskName": "hyeonwol-admin-event-row-and-source-of-truth",
+  "productionUrl": "https://hyeonwol.dasi.ing/",
+  "productionDeployment": "dpl_8FgERhSxNt2uBe4JWnbosKwZ7uos",
+  "rollbackTarget": "dpl_55zDkYJkCvZQCTM2zPE2Qv2zzWkv",
+  "readOnlyAdminCheck": true,
+  "productionDeployed": false,
+  "realPaymentExecuted": false,
+  "testPaymentExecuted": false,
+  "metaWriteExecuted": false,
+  "adLaunchExecuted": false,
+  "dbSchemaModified": false,
+  "sourceRepoCommitted": true,
+  "sourceRepoPushed": true,
+  "mainMerged": false,
+  "secretIncluded": false,
+  "goNoGo": "CONDITIONAL_GO",
+  "eventVerificationStatus": "partial",
+  "sourceOfTruthStatus": "needs_merge"
+}
