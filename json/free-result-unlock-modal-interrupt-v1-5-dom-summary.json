@@ -1,0 +1,295 @@
+{
+  "sectionOrder": [
+    {
+      "id": "judgment",
+      "tag": "section",
+      "classList": [
+        "judgment-reveal"
+      ],
+      "top": 0,
+      "height": 690,
+      "heading": "",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "result-overlay"
+          ]
+        },
+        {
+          "tag": "div",
+          "classList": [
+            "judgment-copy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "face-overview",
+      "tag": "section",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-overview-section"
+      ],
+      "top": 708,
+      "height": 741,
+      "heading": "겉도화 개요",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "face-overview-grid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "share",
+      "tag": "section",
+      "classList": [
+        "panel-card",
+        "share-section",
+        "reveal-card"
+      ],
+      "top": 1467,
+      "height": 604,
+      "heading": "당신의 겉도화",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "share-card"
+          ]
+        },
+        {
+          "tag": "div",
+          "classList": [
+            "share-actions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "free-origin-summary",
+      "tag": "section",
+      "classList": [
+        "free-origin-summary",
+        "free-origin-integrated",
+        "reveal-card"
+      ],
+      "top": 2089,
+      "height": 1006,
+      "heading": "왜 이렇게 나왔는가",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "origin-summary-body"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "face-dohwa-explanation",
+      "tag": "section",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-dohwa-explanation",
+        "face-dohwa-public-explanation"
+      ],
+      "top": 3113,
+      "height": 463,
+      "heading": "겉도화 해석",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "report-body",
+            "face-dohwa-explanation-body"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "professional-locked-area",
+      "tag": "section",
+      "classList": [
+        "professional-locked-area",
+        "reveal-card"
+      ],
+      "top": 3594,
+      "height": 545,
+      "heading": "LOCKED · 전문",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "professional-lock-grid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "indicators",
+      "tag": "section",
+      "classList": [
+        "panel-card",
+        "indicator-section",
+        "reveal-card"
+      ],
+      "top": 4159,
+      "height": 802,
+      "heading": "도화 지표",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "blur-gated",
+            "full-blur-gate",
+            "blur-body-gate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "locked-face-dohwa-professional",
+      "tag": "section",
+      "classList": [
+        "panel-card",
+        "reveal-card",
+        "face-dohwa-explanation",
+        "locked-professional-section",
+        "locked-face-dohwa-professional"
+      ],
+      "top": 4977,
+      "height": 567,
+      "heading": "겉도화 해석 전문",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "blurred-tail",
+            "partial-blur",
+            "locked-professional-blur"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "free-origin-reading",
+      "tag": "article",
+      "classList": [
+        "report-chapter",
+        "reveal-card",
+        "saju-origin-card"
+      ],
+      "top": 5560,
+      "height": 702,
+      "heading": "원국은 이미 한쪽을 가리키고 있습니다.",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "report-body"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "share-unlock",
+      "tag": "section",
+      "classList": [
+        "share-unlock-gate",
+        "reveal-card"
+      ],
+      "top": 6284,
+      "height": 445,
+      "heading": "LOCKED · 전문",
+      "buttons": [],
+      "innerWrappers": [
+        {
+          "tag": "div",
+          "classList": [
+            "hidden-feature-list",
+            "compact-unlock-list",
+            "check-list"
+          ]
+        },
+        {
+          "tag": "div",
+          "classList": [
+            "share-microcopy",
+            "warning-copy"
+          ]
+        }
+      ]
+    }
+  ],
+  "overviewCards": [
+    {
+      "header": "01 첫인상 월지 未(미)",
+      "hanja": "未",
+      "height": 132,
+      "mainFontSize": "17px",
+      "subFontSize": "12px",
+      "classes": [
+        "dohwa-basis-card",
+        "face-overview-card",
+        "face-overview-card-1",
+        "element-earth"
+      ]
+    },
+    {
+      "header": "02 잔상 일지 亥(해)",
+      "hanja": "亥",
+      "height": 148,
+      "mainFontSize": "17px",
+      "subFontSize": "12px",
+      "classes": [
+        "dohwa-basis-card",
+        "face-overview-card",
+        "face-overview-card-2",
+        "element-water"
+      ]
+    },
+    {
+      "header": "03 오해 일간 癸(계)",
+      "hanja": "癸",
+      "height": 148,
+      "mainFontSize": "17px",
+      "subFontSize": "12px",
+      "classes": [
+        "dohwa-basis-card",
+        "face-overview-card",
+        "face-overview-card-3",
+        "element-water"
+      ]
+    }
+  ],
+  "originPersonalization": {
+    "inOriginCount": 1,
+    "inFaceExplanationCount": 0,
+    "text": "원국으로 보면, 이 결은 월지에서 먼저 잡힙니다. 바로 튀기보다 안정감으로 남습니다. 처음엔 잔잔해도 뒤늦게 무게가 생깁니다. 일간은 이 매력이 밖으로 드러나는 방식을 보여줍니다. 한 박자 늦은 반응과 여운으로 드러납니다. 바로 보이지 않아도 시간이 지나 다시 올라옵니다. 일지는 상대 기억에 남는 방식을 보여줍니다. 상대는 시간이 지난 뒤에야 당신의 장면을 다시 떠올립니다. 늦게 돌아오는 여운이 있습니다."
+  },
+  "lockedPreviewPresence": {
+    "indicators": true,
+    "faceProfessional": true,
+    "originProfessional": true
+  },
+  "shareSection": {
+    "hasWorldLabel": true,
+    "directH2Count": 0,
+    "directMentorCount": 0
+  }
+}

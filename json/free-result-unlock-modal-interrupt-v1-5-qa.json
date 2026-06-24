@@ -1,0 +1,322 @@
+{
+  "previewUrl": "https://hyeonwol-free-result-interrupt-v1-8ugbi0cmz.vercel.app",
+  "mobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-8ugbi0cmz.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80+%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80+%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "generatedAtKst": "2026-06-24 10:24:20",
+  "viewports": [
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "underlineText": "상대가 처음 느끼는 당신의 매력",
+        "underlineDecoration": "underline",
+        "cardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "cardHeights": [
+          132,
+          148,
+          148
+        ],
+        "cardStrongFontSizes": [
+          "17px"
+        ],
+        "cardSubFontSizes": [
+          "12px"
+        ],
+        "shareSectionOk": true,
+        "originMovedOk": true,
+        "lockedBlurSectionsOk": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "underlineText": "상대가 처음 느끼는 당신의 매력",
+        "underlineDecoration": "underline",
+        "cardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "cardHeights": [
+          132,
+          148,
+          148
+        ],
+        "cardStrongFontSizes": [
+          "17px"
+        ],
+        "cardSubFontSizes": [
+          "12px"
+        ],
+        "shareSectionOk": true,
+        "originMovedOk": true,
+        "lockedBlurSectionsOk": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "underlineText": "상대가 처음 느끼는 당신의 매력",
+        "underlineDecoration": "underline",
+        "cardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "cardHeights": [
+          132,
+          148,
+          148
+        ],
+        "cardStrongFontSizes": [
+          "17px"
+        ],
+        "cardSubFontSizes": [
+          "12px"
+        ],
+        "shareSectionOk": true,
+        "originMovedOk": true,
+        "lockedBlurSectionsOk": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "info": {
+        "horizontalOverflow": 0,
+        "brokenImages": [],
+        "underlineText": "상대가 처음 느끼는 당신의 매력",
+        "underlineDecoration": "underline",
+        "cardHeads": [
+          "01 첫인상 월지 未(미)",
+          "02 잔상 일지 亥(해)",
+          "03 오해 일간 癸(계)"
+        ],
+        "cardHeights": [
+          132,
+          148,
+          148
+        ],
+        "cardStrongFontSizes": [
+          "17px"
+        ],
+        "cardSubFontSizes": [
+          "12px"
+        ],
+        "shareSectionOk": true,
+        "originMovedOk": true,
+        "lockedBlurSectionsOk": true
+      }
+    }
+  ],
+  "personas": [
+    {
+      "persona": "붉은 장미형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "붉은 장미형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "차가운 달빛형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "차가운 달빛형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "첫눈의 뮤즈형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "첫눈의 뮤즈형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "무심한 고양이형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "무심한 고양이형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "복숭아 안개형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "복숭아 안개형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "검은 향수형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "검은 향수형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "햇살 플러팅형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "햇살 플러팅형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    },
+    {
+      "persona": "푸른 불꽃형",
+      "consoleErrors": [],
+      "info": {
+        "heroPersona": "푸른 불꽃형",
+        "containsPersona": true,
+        "hasCoreSections": true,
+        "horizontalOverflow": 0,
+        "brokenImages": []
+      }
+    }
+  ],
+  "autoModal": {
+    "appeared": 1,
+    "afterClose": 0,
+    "reappeared": 0
+  },
+  "postShare": {
+    "modalCount": 0,
+    "hasUnlockedCue": 1
+  },
+  "screenshots": [
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/01-full-page-390.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/02-hero.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/03-face-overview.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/04-share-card.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/05-origin-summary.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/06-face-explanation.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/07-professional-locked.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/08-indicators-blur.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/09-face-professional-blur.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/10-origin-professional-blur.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/11-bottom-gate.png",
+    "screenshots/free-result-unlock-modal-interrupt-v1-5-mobile-qa/12-auto-unlock-modal.png"
+  ],
+  "consoleErrorPolicy": "Only browser console messages with type=error are counted; known external browser warnings are ignored.",
+  "screenshotResults": [
+    {
+      "file": "02-hero.png",
+      "selector": "#judgment",
+      "title": "Hero",
+      "result": true
+    },
+    {
+      "file": "03-face-overview.png",
+      "selector": "#face-overview",
+      "title": "겉도화 개요",
+      "result": true
+    },
+    {
+      "file": "04-share-card.png",
+      "selector": "#share",
+      "title": "당신의 겉도화",
+      "result": true
+    },
+    {
+      "file": "05-origin-summary.png",
+      "selector": "#free-origin-summary",
+      "title": "왜 이렇게 나왔는가",
+      "result": true
+    },
+    {
+      "file": "06-face-explanation.png",
+      "selector": ".face-dohwa-public-explanation",
+      "title": "겉도화 해석",
+      "result": true
+    },
+    {
+      "file": "07-professional-locked.png",
+      "selector": "#professional-locked-area",
+      "title": "전문 잠금 영역",
+      "result": true
+    },
+    {
+      "file": "08-indicators-blur.png",
+      "selector": "#indicators",
+      "title": "도화 지표 전문 블러",
+      "result": true
+    },
+    {
+      "file": "09-face-professional-blur.png",
+      "selector": "#locked-face-dohwa-professional",
+      "title": "겉도화 해석 전문 블러",
+      "result": true
+    },
+    {
+      "file": "10-origin-professional-blur.png",
+      "selector": "#free-origin-reading",
+      "title": "원국 해석 전문 블러",
+      "result": true
+    },
+    {
+      "file": "11-bottom-gate.png",
+      "selector": "#share-unlock",
+      "title": "하단 게이트",
+      "result": true
+    },
+    {
+      "file": "12-auto-unlock-modal.png",
+      "selector": ".unlock-choice-modal",
+      "title": "자동 전문 열람 모달",
+      "result": true
+    }
+  ],
+  "consoleErrorsTotal": 0
+}
