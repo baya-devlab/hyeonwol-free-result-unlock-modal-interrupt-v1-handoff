@@ -1,0 +1,279 @@
+{
+  "stableUrl": "https://hyeonwol-free-result-interrupt-v1-qa.vercel.app",
+  "stableMobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-qa.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80+%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80+%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "immutableUrl": "https://hyeonwol-free-result-interrupt-v1-7m2tir94p.vercel.app",
+  "immutableMobileQaUrl": "https://hyeonwol-free-result-interrupt-v1-7m2tir94p.vercel.app/?preview=1&free=1&freePersona=%EB%B6%89%EC%9D%80+%EC%9E%A5%EB%AF%B8%ED%98%95&hidden=%EB%B6%89%EC%9D%80+%EA%B2%BD%EA%B3%A0%EB%93%B1%ED%98%95",
+  "checkedAt": "2026-06-24T05:38:54.699Z",
+  "failures": [],
+  "consoleErrors": [],
+  "sourceCheck": {
+    "autoTriggerAttr": "dohwa_indicator_auto_gate",
+    "finalHasAutoAttr": false,
+    "modalTitle": "여기서부터는 전문 해석입니다"
+  },
+  "partialBlurAutoVisible": false,
+  "indicatorModalVisible": true,
+  "manualCtaResults": [
+    {
+      "name": "dohwa_indicator",
+      "selector": "#indicators [data-action='face-dohwa-share']",
+      "modalVisible": true
+    },
+    {
+      "name": "true_face_professional",
+      "selector": "#locked-face-dohwa-professional [data-action='face-dohwa-share']",
+      "modalVisible": true
+    },
+    {
+      "name": "origin_professional",
+      "selector": "#free-origin-reading [data-action='face-dohwa-share']",
+      "modalVisible": true
+    },
+    {
+      "name": "final_locked_cta",
+      "selector": "#professional-locked-area [data-action='face-dohwa-share']",
+      "modalVisible": true
+    }
+  ],
+  "viewportResults": [
+    {
+      "width": 360,
+      "overflow": 0,
+      "brokenImages": 0
+    },
+    {
+      "width": 375,
+      "overflow": 0,
+      "brokenImages": 0
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "brokenImages": 0
+    },
+    {
+      "width": 430,
+      "overflow": 0,
+      "brokenImages": 0
+    }
+  ],
+  "personaResults": [
+    {
+      "persona": "붉은 장미형",
+      "lockedTitle": "붉은 장미형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    },
+    {
+      "persona": "차가운 달빛형",
+      "lockedTitle": "차가운 달빛형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    },
+    {
+      "persona": "첫눈의 뮤즈형",
+      "lockedTitle": "첫눈의 뮤즈형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    },
+    {
+      "persona": "무심한 고양이형",
+      "lockedTitle": "무심한 고양이형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    },
+    {
+      "persona": "복숭아 안개형",
+      "lockedTitle": "복숭아 안개형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    },
+    {
+      "persona": "검은 향수형",
+      "lockedTitle": "검은 향수형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    },
+    {
+      "persona": "햇살 플러팅형",
+      "lockedTitle": "햇살 플러팅형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    },
+    {
+      "persona": "푸른 불꽃형",
+      "lockedTitle": "푸른 불꽃형의 진모습",
+      "triggerAttr": "dohwa_indicator_auto_gate",
+      "overflow": 0,
+      "titleOk": true
+    }
+  ],
+  "postShare": {
+    "autoModalVisible": false
+  },
+  "finalChecks": {
+    "lockLabels": [
+      "LOCKED · 전문"
+    ],
+    "autoTriggerCount": 1,
+    "autoTriggerSelector": "indicators",
+    "horizontalOverflow": 0,
+    "brokenImages": []
+  },
+  "domSummary": [
+    {
+      "id": "face_explanation",
+      "selector": "#face-dohwa-explanation",
+      "found": true,
+      "className": "panel-card reveal-card face-dohwa-explanation face-dohwa-public-explanation",
+      "autoTrigger": "",
+      "top": 3069,
+      "height": 815,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "겉도화 해석",
+          "className": "world-label"
+        },
+        {
+          "tag": "h2",
+          "text": "붉은 장미형은 장면의 중심으로 남습니다",
+          "className": ""
+        }
+      ],
+      "buttons": [
+        {
+          "text": "🔒\n        전문 보기",
+          "action": "face-dohwa-share"
+        }
+      ],
+      "textSample": "겉도화 해석 붉은 장미형은 장면의 중심으로 남습니다 당신은 말을 많이 해서 기억되는 쪽이 아닙니다. 오히려 아무 말 없이 지나간 장면에서 더 선명해질 때가 있습니다.상대는 당신이 무엇을 했는지보다, 당신이 그 자리에 있었다는 사실을 더 오래 기억합니다. 좋게 말하면 존재감이고, 솔직히 말하면 상대가 편하게만 볼 수 없는 사람입니다. 상대는 당신을 “편한 사람”보다 “강하게 남는 사람”으로 기억합니다. 괜히 한 번 더 자세를 고쳐 앉게 되는 순간, 상대는 이미 당신을 장면의 중심으로 다시 읽고 있습니다. 상대는 당신이 만든 압도를 매력으로 읽기 시작합니다. 강하게 다가간 적이 없어도, 그 사람은 이미 장면의 무게 중심을 당신 쪽에 두고 있습니다. 이 아래에서는 붉은 장미형의 도화가 어떤 표정과 말투에서 더 강하게 보이는지 이어집니다. 상대가 먼저 알아차리는 지점, 뒤늦게 다시 떠올리는 장면, 혼자 의미를 붙이는 순간을 한 흐름으로 나누어 봅니다.존재감이 높은 도화는 늘 호감으로만 읽히"
+    },
+    {
+      "id": "dohwa_indicators_auto_trigger",
+      "selector": "#indicators",
+      "found": true,
+      "className": "panel-card indicator-section reveal-card",
+      "autoTrigger": "dohwa_indicator_auto_gate",
+      "top": 3902,
+      "height": 802,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "도화 지표",
+          "className": "world-label"
+        },
+        {
+          "tag": "h2",
+          "text": "당신의 겉도화는 다섯 가지 결로 나뉩니다.",
+          "className": ""
+        }
+      ],
+      "buttons": [
+        {
+          "text": "🔒\n        전문 보기",
+          "action": "face-dohwa-share"
+        }
+      ],
+      "textSample": "도화 지표 당신의 겉도화는 다섯 가지 결로 나뉩니다. 높다고 무조건 좋은 건 아닙니다. 강한 도화는 사람을 쉽게 끌어오지만, 가끔은 더 귀찮은 관계도 같이 끌고 옵니다. 존재감69신비감40부드러움40플러팅62깊이66 존재감69 처음 들어온 순간 남는 힘 신비감40 다 알 수 없어서 더 보게 되는 결 부드러움40 방심하게 만드는 온도 플러팅62 말과 시선 사이에 생기는 흔들림 깊이66 가볍게 시작해도 오래 남는 층 🔒 전문 보기"
+    },
+    {
+      "id": "true_face_professional",
+      "selector": "#locked-face-dohwa-professional",
+      "found": true,
+      "className": "panel-card reveal-card face-dohwa-explanation locked-professional-section locked-face-dohwa-professional",
+      "autoTrigger": "",
+      "top": 4720,
+      "height": 538,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "전문 해석",
+          "className": "world-label"
+        },
+        {
+          "tag": "h2",
+          "text": "붉은 장미형의 진모습",
+          "className": ""
+        }
+      ],
+      "buttons": [
+        {
+          "text": "🔒\n        전문 보기",
+          "action": "face-dohwa-share"
+        }
+      ],
+      "textSample": "전문 해석 붉은 장미형의 진모습 붉은 장미형은 설명보다 존재감으로 먼저 닿는 도화입니다.당신은 말을 많이 해서 기억되는 쪽이 아닙니다. 아무 말 없이 지나간 장면에서 더 선명해질 때가 있습니다.상대는 당신이 무엇을 했는지보다, 당신이 그 자리에 있었다는 사실을 더 오래 기억합니다.붉은 장미형의 도화는 편안하게 풀어주는 매력이 아닙니다. 조금 선명하고, 조금 불편하고, 그래서 쉽게 지워지지 않습니다.상대가 당신을 편하게만 보지 못하는 이유도 여기에 있습니다.괜히 한 번 더 자세를 고쳐 앉게 되는 순간, 상대는 이미 당신을 장면의 중심으로 다시 읽고 있습니다. 상대는 당신이 만든 압도를 매력으로 읽기 시작합니다. 강하게 다가간 적이 없어도, 그 사람은 이미 장면의 무게 중심을 당신 쪽에 두고 있습니다. 이 아래에서는 붉은 장미형의 도화가 어떤 표정과 말투에서 더 강하게 보이는지 이어집니다. 상대가 먼저 알아차리는 지점, 뒤늦게 다시 떠올리는 장면, 혼자 의미를 붙이는 순간을 한 흐름으로"
+    },
+    {
+      "id": "origin_professional_blur",
+      "selector": "#free-origin-reading",
+      "found": true,
+      "className": "report-chapter reveal-card saju-origin-card",
+      "autoTrigger": "",
+      "top": 5274,
+      "height": 699,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "원국 해석",
+          "className": "chapter-index"
+        },
+        {
+          "tag": "h2",
+          "text": "원국은 이미 한쪽을 가리키고 있습니다.",
+          "className": ""
+        }
+      ],
+      "buttons": [
+        {
+          "text": "🔒\n        전문 보기",
+          "action": "face-dohwa-share"
+        }
+      ],
+      "textSample": "원국 해석 원국은 이미 한쪽을 가리키고 있습니다. 겉도화는 깊은 관계보다, 사람에게 처음 닿는 분위기에서 먼저 드러납니다. 그래서 월지를 먼저 봅니다. 월지는 당신이 어떤 계절의 결로 사람들 사이에 놓이는지 보여주거든요. 시주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 일주 癸 천간 · 수 · 비견 亥 지지 · 수 · 비견 월주 己 천간 · 토 · 편관 未 지지 · 토 · 편관 연주 戊 천간 · 토 · 정관 寅 지지 · 목 · 상관 가명님의 월지는 未(미)입니다. 未(미)는 토(土)의 자리라, 감정이 바로 터지기보다 천천히 익고 오래 남는 쪽에 가깝습니다. 그래서 당신의 도화는 말로 먼저 튀어나오기보다, 분위기와 장면으로 남습니다. 그 다음은 일간과 일지입니다. 일간 癸(계)은 관계 안에서 자신을 드러내는 방식이고, 일지 亥(해)는 가까워진 뒤 반복되는 자리입니다. 癸(계)은 감정을 한 박자 늦게 남기는 기운입니다. 처음에는 조용해 보여도 시간이 지나면 장면이 다시 올라오고,"
+    },
+    {
+      "id": "final_locked_cta",
+      "selector": "#professional-locked-area",
+      "found": true,
+      "className": "professional-locked-area reveal-card",
+      "autoTrigger": "",
+      "top": 5991,
+      "height": 571,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "LOCKED · 전문",
+          "className": "lock-label"
+        },
+        {
+          "tag": "h2",
+          "text": "아직 닫힌 해석이 남아 있습니다",
+          "className": ""
+        }
+      ],
+      "buttons": [
+        {
+          "text": "전문 열람하기",
+          "action": "face-dohwa-share"
+        }
+      ],
+      "textSample": "LOCKED · 전문 아직 닫힌 해석이 남아 있습니다 지금 보신 건 겉도화의 앞부분입니다.전문에는 이 판정이 왜 나왔는지,그리고 어떤 지표가 강하게 잡혔는지가 이어집니다. 🔒 원국 해석 전문 월지·일간·일지가 왜 붉은 장미형으로 모이는지 🔒 진모습 해석 전문 상대가 당신을 어떤 장면에서 더 강하게 기억하는지 🔒 도화 지표 전체 존재감 / 신비감 / 부드러움 / 플러팅 / 깊이 전문 열람하기 공유로 무료 열람하거나, 공유 없이 바로 열 수 있습니다."
+    }
+  ],
+  "screenshots": [
+    "00-full-long-390.png",
+    "01-face-explanation-before-auto.png",
+    "02-indicators-trigger-area.png",
+    "03-dohwa-indicator-auto-modal.png",
+    "04-final-locked-cta.png"
+  ]
+}
