@@ -2,6 +2,7 @@
 
 * public handoff repo: https://github.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff
 * closeout evidence pack: https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/closeout/hyeonwol-closeout-20260628-1546/docs/hyeonwol-closeout-evidence-pack.md
+* paid acquisition closeout retrospective: https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/closeout/hyeonwol-closeout-20260628-1546/docs/hyeonwol-paid-acquisition-closeout-retrospective-20260628.md
 * financial summary: https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/closeout/hyeonwol-closeout-20260628-1546/docs/hyeonwol-financial-summary.md
 * Meta spend summary: https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/closeout/hyeonwol-closeout-20260628-1546/docs/meta-hyeonwol-spend-summary.md
 * revenue summary: https://raw.githubusercontent.com/baya-devlab/hyeonwol-free-result-unlock-modal-interrupt-v1-handoff/main/closeout/hyeonwol-closeout-20260628-1546/docs/hyeonwol-revenue-summary.md
