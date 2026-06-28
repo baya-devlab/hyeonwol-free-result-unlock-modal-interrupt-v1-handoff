@@ -1,0 +1,20 @@
+{
+  "total_ad_spend_krw": 726775,
+  "total_revenue_krw": 436620,
+  "gross_roas": 0.6008,
+  "net_revenue_krw": 436620,
+  "net_roas": 0.6008,
+  "speed_990_revenue_krw": 215820,
+  "deep_13800_revenue_krw": 220800,
+  "paid_order_count": 234,
+  "speed_990_purchases": 218,
+  "deep_13800_purchases": 16,
+  "cpa_all_paid_krw": 3105.8760683760684,
+  "cpa_990_krw": 3333.830275229358,
+  "cpa_13800_krw": 45423.4375,
+  "cost_per_payment_start_krw": 15463.297872340425,
+  "cost_per_free_result_view_krw": 1648.015873015873,
+  "cost_per_any_select_krw": 5505.871212121212,
+  "refunds_count": 0,
+  "refund_amount_krw": 0
+}

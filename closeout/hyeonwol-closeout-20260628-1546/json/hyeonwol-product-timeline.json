@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-06-07~2026-06-12",
+    "category": "product",
+    "event": "현월 상품/광고소재/초기 앱 구성 작업 진행",
+    "evidence": "local project files and asset folders dated Jun 7~12",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-06",
+    "category": "paid acquisition",
+    "event": "Meta 현월 캠페인 첫 spend 발생",
+    "evidence": "Meta Ads Insights first spend date",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-02",
+    "category": "revenue",
+    "event": "현월 첫 유료 결제 발생",
+    "evidence": "Admin daily revenue rows",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-21",
+    "category": "paid acquisition",
+    "event": "Core + New Creative Screening 구조로 수동 캠페인 런칭",
+    "evidence": "manual setup audit and launch/midcheck artifacts",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "attribution",
+    "event": "Attribution audit / v2 code-only 계획 및 일부 보강",
+    "evidence": "hyeonwol_attribution_* artifacts",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-23~2026-06-26",
+    "category": "funnel UX",
+    "event": "무료 결과페이지 해금 전 구조 v1.x, unlock modal, 도화 지표 자동 모달, 블러 전문 섹션 polish",
+    "evidence": "public handoff and local preview/QA artifacts",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "pixel",
+    "event": "Meta Pixel mismatch / track beacon 미발화 CRITICAL fix 및 표준 이벤트 확인",
+    "evidence": "pixel mismatch/track beacon/final event check artifacts",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-27",
+    "category": "paid acquisition",
+    "event": "Pixel-fix 이후 소액 재개 중간점검. Core budget mismatch 발견 후 사용자가 수정",
+    "evidence": "pixel_fix_relaunch_midcheck and latest performance artifacts",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-28 15:46 KST",
+    "category": "closeout",
+    "event": "사용자 결정으로 현월 관련 모든 Meta 광고 OFF. 유료 광고 주력 상품 중단/보류",
+    "evidence": "current closeout request",
+    "confidence": "high"
+  }
+]

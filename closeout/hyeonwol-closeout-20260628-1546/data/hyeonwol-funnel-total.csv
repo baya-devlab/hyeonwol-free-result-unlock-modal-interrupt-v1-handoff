@@ -1,0 +1,13 @@
+event,count
+landing_view,201
+input_start,500
+free_result_view,441
+unlock_choice_modal_open,325
+unlock_choice_share_select,105
+unlock_choice_pay_select,27
+unlock_granted,105
+speed_dohwa_decode_payment_start,44
+speed_dohwa_decode_purchase_success,218
+deep_opening_upsell_view,44
+deep_opening_payment_start,3
+deep_opening_purchase_success,16

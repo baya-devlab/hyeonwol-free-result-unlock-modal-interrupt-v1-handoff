@@ -1,0 +1,20 @@
+{
+  "taskName": "hyeonwol-closeout-evidence-pack",
+  "closedAtKst": "2026-06-28T15:46:00+09:00",
+  "paidAdsStopped": true,
+  "metaWriteExecuted": false,
+  "adStatusChangedByCodex": false,
+  "productionDeployed": false,
+  "codeModified": false,
+  "dbModified": false,
+  "realPaymentExecuted": false,
+  "testPaymentExecuted": false,
+  "secretIncluded": false,
+  "totalAdSpendKrw": 726775,
+  "totalRevenueKrw": 436620,
+  "grossRoas": 0.6008,
+  "dateRange": {
+    "startKst": "2026-06-02T00:00:00+09:00",
+    "endKst": "2026-06-28T15:46:00+09:00"
+  }
+}

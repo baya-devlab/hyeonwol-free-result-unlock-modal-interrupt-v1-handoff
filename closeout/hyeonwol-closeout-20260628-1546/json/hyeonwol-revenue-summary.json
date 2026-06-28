@@ -1,0 +1,16 @@
+{
+  "checkedAtKst": "2026-06-28 16:11:57 KST",
+  "firstRevenueDate": "2026-06-02",
+  "closeAtKst": "2026-06-28T15:46:00+09:00",
+  "totalRevenueKrw": 436620,
+  "speedRevenueKrw": 215820,
+  "deepRevenueKrw": 220800,
+  "paidOrderCount": 234,
+  "failedCount": 0,
+  "cancelledCount": 0,
+  "refundedCount": 0,
+  "refundAmountKrw": 0,
+  "paymentStarts": 47,
+  "purchaseSuccess": 234,
+  "paymentStartToPurchaseSuccessRate": 4.9787234042553195
+}

@@ -1,0 +1,2 @@
+paid_order_count,failed_order_count,cancelled_order_count,refunded_order_count,refund_amount_krw,payment_start_count,purchase_success_count,payment_start_to_purchase_success_rate
+234,0,0,0,0,47,234,4.9787234042553195

@@ -1,0 +1,15 @@
+{
+  "checkedAtKst": "2026-06-28 16:11:57 KST",
+  "closeAtKst": "2026-06-28T15:46:00+09:00",
+  "freeResultView": 441,
+  "anySelect": 132,
+  "paymentStarts": 47,
+  "speedPurchases": 218,
+  "deepPurchases": 16,
+  "rates": {
+    "freeResultToAnySelect": 0.29931972789115646,
+    "freeResultToPaymentStart": 0.10657596371882086,
+    "freeResultTo990Purchase": 0.4943310657596372,
+    "deepPaymentStartToPurchase": 5.333333333333333
+  }
+}
